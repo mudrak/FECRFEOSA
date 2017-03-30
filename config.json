@@ -30,7 +30,7 @@
     "graphProperties": {
       "minEdgeSize": 0.2,
       "maxNodeSize": 15,
-      "maxEdgeSize": 1.5,
+      "maxEdgeSize": 2.5,
       "minNodeSize": 1
     },
     "drawingProperties": {

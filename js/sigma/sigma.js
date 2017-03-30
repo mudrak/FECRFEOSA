@@ -805,7 +805,7 @@ sigma.classes.EventDispatcher = function () {
             case "right":
                 c = b(f + l + a.displaySize + 8 + i), l = b(h + k), i = c - i, m = l - 3, f = b(f), h = b(h + k)
             }
-            d.font = g + "px sans-serif";
+            d.font = g + "courier";
             d.fillStyle = "#fff";
             d.fillText(a.label, i, m);
             d.strokeStyle = "#fff";

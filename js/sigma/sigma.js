@@ -687,7 +687,7 @@ sigma.classes.EventDispatcher = function () {
             defaultLabelSize: 12,
             labelSizeRatio: 2,
             labelThreshold: 6,
-            font: "Arial",
+            font: "Courier New",
             hoverFont: "",
             activeFont: "",
             fontStyle: "",

@@ -51,7 +51,7 @@
 
 .fancybox-error {
 	color: #444;
-	font: 14px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: 14px/20px "Courier New",Courier,monospace;
 	margin: 0;
 	padding: 10px;
 }
@@ -178,7 +178,7 @@
 
 .fancybox-title {
 	visibility: hidden;
-	font: normal 13px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: normal 13px/20px "Courier New",Courier,monospace;
 	position: relative;
 	text-shadow: none;
 	z-index: 8050;

@@ -13,9 +13,9 @@
     "intro": "This virtual map represents the coverage of the Free Europe Committee/Radio Free Europe collection published by \nBlinken OSA. To find the link to the documents on the selected country, click its name and follow the link in the description that appears on the right side of the page. \nParameter \"Weight\" in the appeared tab shows the number of mentions in the documents.\nClick \"More about this visualisation\" below to read more information about the colleciton."
   },
   "legend": {
-    "edgeLabel": "Connection to RFE, thickness - numbers of mentions",
+    "edgeLabel": "Thickness of edges - based on number of mentions",
     "colorLabel": "From light blue to the dark blue/from 1 to 2000",
-    "nodeLabel": "Countries, Size \u003d according to the number of mentions"
+    "nodeLabel": "Countries are sized based on weight. Weight parameter is in the information pane, visible after the click on a country"
   },
   "features": {
     "search": true,

@@ -5,7 +5,7 @@
   "logo": {
     "text": "http://http://www.osaarchivum.org",
     "file": "images/RFE Countries.png",
-    "link": "http://www.osaarchivum.org"
+    "link": <a href="http://www.osaarchivum.org"> </a>
   },
   "text": {
     "title": "RFE Countries Map",

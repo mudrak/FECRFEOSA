@@ -15,7 +15,7 @@
   "legend": {
     "edgeLabel": "Thickness of edges - based on number of mentions",
     "colorLabel": "From light blue to the dark blue/from 1 to 2000",
-    "nodeLabel": "Countries are sized based on weight. Weight parameter is in the information pane, visible after the click on a country"
+    "nodeLabel": "Countries are sized based on weight. Weight parameter is visible after the click on a country. It reflects the number of messages with the name of the country."
   },
   "features": {
     "search": true,

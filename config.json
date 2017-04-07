@@ -18,7 +18,7 @@
     "nodeLabel": "Countries are sized based on weight. Weight parameter is visible after the click on a country. It reflects the number of messages with the name of the country."
   },
   "features": {
-    "search": false,
+    "search": true,
     "groupSelectorAttribute": "color",
     "hoverBehavior": "default"
   },

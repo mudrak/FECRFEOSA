@@ -1,1 +1,3170 @@
-{"edges":[{"label":"","source":"156","target":"3","id":"8","attributes":{},"color":"rgb(46,99,135)","size":2.0},{"label":"","source":"54","target":"3","id":"104","attributes":{},"color":"rgb(46,99,135)","size":13.0},{"label":"","source":"6","target":"3","id":"12","attributes":{},"color":"rgb(46,99,135)","size":14.0},{"label":"","source":"27","target":"3","id":"55","attributes":{},"color":"rgb(46,99,135)","size":58.0},{"label":"","source":"46","target":"3","id":"24","attributes":{},"color":"rgb(46,99,135)","size":45.0},{"label":"","source":"143","target":"3","id":"95","attributes":{},"color":"rgb(46,99,135)","size":2.0},{"label":"","source":"53","target":"3","id":"11","attributes":{},"color":"rgb(46,99,135)","size":9.0},{"label":"","source":"84","target":"3","id":"82","attributes":{},"color":"rgb(46,99,135)","size":5.0},{"label":"","source":"5","target":"3","id":"120","attributes":{},"color":"rgb(46,99,135)","size":3.0},{"label":"","source":"73","target":"3","id":"41","attributes":{},"color":"rgb(46,99,135)","size":26.0},{"label":"","source":"130","target":"3","id":"42","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"12","target":"3","id":"39","attributes":{},"color":"rgb(77,124,153)","size":1275.0},{"label":"","source":"36","target":"3","id":"49","attributes":{},"color":"rgb(46,99,135)","size":45.0},{"label":"","source":"107","target":"3","id":"64","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"88","target":"3","id":"103","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"33","target":"3","id":"75","attributes":{},"color":"rgb(46,99,135)","size":9.0},{"label":"","source":"93","target":"3","id":"88","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"140","target":"3","id":"84","attributes":{},"color":"rgb(46,99,135)","size":6.0},{"label":"","source":"59","target":"3","id":"85","attributes":{},"color":"rgb(46,99,135)","size":14.0},{"label":"","source":"83","target":"3","id":"6","attributes":{},"color":"rgb(46,99,135)","size":13.0},{"label":"","source":"64","target":"3","id":"71","attributes":{},"color":"rgb(46,99,135)","size":2.0},{"label":"","source":"52","target":"3","id":"27","attributes":{},"color":"rgb(46,99,135)","size":14.0},{"label":"","source":"45","target":"3","id":"123","attributes":{},"color":"rgb(46,99,135)","size":80.0},{"label":"","source":"14","target":"3","id":"90","attributes":{},"color":"rgb(46,99,135)","size":65.0},{"label":"","source":"48","target":"3","id":"54","attributes":{},"color":"rgb(46,99,135)","size":92.0},{"label":"","source":"105","target":"3","id":"25","attributes":{},"color":"rgb(46,99,135)","size":2.0},{"label":"","source":"103","target":"3","id":"52","attributes":{},"color":"rgb(46,99,135)","size":5.0},{"label":"","source":"126","target":"3","id":"91","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"7","target":"3","id":"124","attributes":{},"color":"rgb(46,99,135)","size":9.0},{"label":"","source":"23","target":"3","id":"122","attributes":{},"color":"rgb(78,114,139)","size":1160.0},{"label":"","source":"94","target":"3","id":"44","attributes":{},"color":"rgb(46,99,135)","size":2.0},{"label":"","source":"121","target":"3","id":"47","attributes":{},"color":"rgb(46,99,135)","size":4.0},{"label":"","source":"28","target":"3","id":"76","attributes":{},"color":"rgb(46,99,135)","size":9.0},{"label":"","source":"42","target":"3","id":"102","attributes":{},"color":"rgb(46,99,135)","size":27.0},{"label":"","source":"98","target":"3","id":"4","attributes":{},"color":"rgb(46,99,135)","size":11.0},{"label":"","source":"11","target":"3","id":"23","attributes":{},"color":"rgb(46,99,135)","size":5.0},{"label":"","source":"66","target":"3","id":"10","attributes":{},"color":"rgb(46,99,135)","size":21.0},{"label":"","source":"113","target":"3","id":"96","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"43","target":"3","id":"125","attributes":{},"color":"rgb(51,101,135)","size":266.0},{"label":"","source":"91","target":"3","id":"113","attributes":{},"color":"rgb(46,99,135)","size":11.0},{"label":"","source":"165","target":"3","id":"9","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"114","target":"3","id":"20","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"70","target":"3","id":"57","attributes":{},"color":"rgb(46,99,135)","size":8.0},{"label":"","source":"133","target":"3","id":"93","attributes":{},"color":"rgb(46,99,135)","size":4.0},{"label":"","source":"62","target":"3","id":"59","attributes":{},"color":"rgb(46,99,135)","size":5.0},{"label":"","source":"85","target":"3","id":"40","attributes":{},"color":"rgb(46,99,135)","size":6.0},{"label":"","source":"31","target":"3","id":"22","attributes":{},"color":"rgb(54,103,136)","size":366.0},{"label":"","source":"99","target":"3","id":"53","attributes":{},"color":"rgb(46,99,135)","size":2.0},{"label":"","source":"115","target":"3","id":"17","attributes":{},"color":"rgb(46,99,135)","size":21.0},{"label":"","source":"50","target":"3","id":"81","attributes":{},"color":"rgb(46,99,135)","size":24.0},{"label":"","source":"92","target":"3","id":"118","attributes":{},"color":"rgb(46,99,135)","size":18.0},{"label":"","source":"69","target":"3","id":"69","attributes":{},"color":"rgb(46,99,135)","size":12.0},{"label":"","source":"16","target":"3","id":"36","attributes":{},"color":"rgb(47,99,135)","size":116.0},{"label":"","source":"117","target":"3","id":"97","attributes":{},"color":"rgb(46,99,135)","size":2.0},{"label":"","source":"9","target":"3","id":"87","attributes":{},"color":"rgb(46,99,135)","size":4.0},{"label":"","source":"80","target":"3","id":"100","attributes":{},"color":"rgb(46,99,135)","size":8.0},{"label":"","source":"161","target":"3","id":"68","attributes":{},"color":"rgb(46,99,135)","size":2.0},{"label":"","source":"47","target":"3","id":"98","attributes":{},"color":"rgb(46,99,135)","size":2.0},{"label":"","source":"63","target":"3","id":"72","attributes":{},"color":"rgb(46,99,135)","size":11.0},{"label":"","source":"120","target":"3","id":"30","attributes":{},"color":"rgb(46,99,135)","size":17.0},{"label":"","source":"89","target":"3","id":"79","attributes":{},"color":"rgb(46,99,135)","size":3.0},{"label":"","source":"51","target":"3","id":"7","attributes":{},"color":"rgb(46,99,135)","size":84.0},{"label":"","source":"1","target":"3","id":"48","attributes":{},"color":"rgb(74,112,139)","size":1005.0},{"label":"","source":"13","target":"3","id":"89","attributes":{},"color":"rgb(68,180,232)","size":1928.0},{"label":"","source":"35","target":"3","id":"114","attributes":{},"color":"rgb(46,99,135)","size":18.0},{"label":"","source":"82","target":"3","id":"78","attributes":{},"color":"rgb(46,99,135)","size":13.0},{"label":"","source":"32","target":"3","id":"117","attributes":{},"color":"rgb(46,99,135)","size":9.0},{"label":"","source":"37","target":"3","id":"3","attributes":{},"color":"rgb(46,99,135)","size":27.0},{"label":"","source":"77","target":"3","id":"1","attributes":{},"color":"rgb(46,99,135)","size":3.0},{"label":"","source":"119","target":"3","id":"43","attributes":{},"color":"rgb(46,99,135)","size":2.0},{"label":"","source":"18","target":"3","id":"28","attributes":{},"color":"rgb(73,149,188)","size":1571.0},{"label":"","source":"38","target":"3","id":"50","attributes":{},"color":"rgb(46,99,135)","size":17.0},{"label":"","source":"39","target":"3","id":"16","attributes":{},"color":"rgb(46,99,135)","size":10.0},{"label":"","source":"102","target":"3","id":"60","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"127","target":"3","id":"46","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"72","target":"3","id":"61","attributes":{},"color":"rgb(46,99,135)","size":41.0},{"label":"","source":"164","target":"3","id":"38","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"81","target":"3","id":"110","attributes":{},"color":"rgb(46,99,135)","size":8.0},{"label":"","source":"29","target":"3","id":"56","attributes":{},"color":"rgb(46,99,135)","size":31.0},{"label":"","source":"142","target":"3","id":"74","attributes":{},"color":"rgb(46,99,135)","size":2.0},{"label":"","source":"139","target":"3","id":"65","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"137","target":"3","id":"109","attributes":{},"color":"rgb(46,99,135)","size":2.0},{"label":"","source":"100","target":"3","id":"33","attributes":{},"color":"rgb(46,99,135)","size":19.0},{"label":"","source":"58","target":"3","id":"105","attributes":{},"color":"rgb(46,99,135)","size":23.0},{"label":"","source":"86","target":"3","id":"80","attributes":{},"color":"rgb(46,99,135)","size":4.0},{"label":"","source":"4","target":"3","id":"5","attributes":{},"color":"rgb(46,99,135)","size":7.0},{"label":"","source":"24","target":"3","id":"119","attributes":{},"color":"rgb(46,99,135)","size":72.0},{"label":"","source":"49","target":"3","id":"101","attributes":{},"color":"rgb(46,99,135)","size":5.0},{"label":"","source":"41","target":"3","id":"31","attributes":{},"color":"rgb(46,99,135)","size":26.0},{"label":"","source":"95","target":"3","id":"70","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"22","target":"3","id":"35","attributes":{},"color":"rgb(46,99,135)","size":23.0},{"label":"","source":"75","target":"3","id":"51","attributes":{},"color":"rgb(46,99,135)","size":8.0},{"label":"","source":"116","target":"3","id":"45","attributes":{},"color":"rgb(46,99,135)","size":3.0},{"label":"","source":"128","target":"3","id":"86","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"61","target":"3","id":"116","attributes":{},"color":"rgb(46,99,135)","size":4.0},{"label":"","source":"106","target":"3","id":"107","attributes":{},"color":"rgb(46,99,135)","size":16.0},{"label":"","source":"65","target":"3","id":"29","attributes":{},"color":"rgb(46,99,135)","size":7.0},{"label":"","source":"108","target":"3","id":"92","attributes":{},"color":"rgb(46,99,135)","size":3.0},{"label":"","source":"71","target":"3","id":"111","attributes":{},"color":"rgb(46,99,135)","size":4.0},{"label":"","source":"125","target":"3","id":"126","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"122","target":"3","id":"108","attributes":{},"color":"rgb(46,99,135)","size":3.0},{"label":"","source":"10","target":"3","id":"32","attributes":{},"color":"rgb(46,99,135)","size":3.0},{"label":"","source":"68","target":"3","id":"2","attributes":{},"color":"rgb(47,99,135)","size":127.0},{"label":"","source":"57","target":"3","id":"106","attributes":{},"color":"rgb(46,99,135)","size":21.0},{"label":"","source":"138","target":"3","id":"99","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"30","target":"3","id":"26","attributes":{},"color":"rgb(48,100,135)","size":163.0},{"label":"","source":"2","target":"3","id":"121","attributes":{},"color":"rgb(77,121,149)","size":1246.0},{"label":"","source":"104","target":"3","id":"13","attributes":{},"color":"rgb(46,99,135)","size":3.0},{"label":"","source":"87","target":"3","id":"83","attributes":{},"color":"rgb(46,99,135)","size":9.0},{"label":"","source":"79","target":"3","id":"18","attributes":{},"color":"rgb(46,99,135)","size":2.0},{"label":"","source":"15","target":"3","id":"94","attributes":{},"color":"rgb(74,112,139)","size":1020.0},{"label":"","source":"109","target":"3","id":"34","attributes":{},"color":"rgb(46,99,135)","size":2.0},{"label":"","source":"17","target":"3","id":"15","attributes":{},"color":"rgb(66,108,138)","size":747.0},{"label":"","source":"154","target":"3","id":"58","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"169","target":"3","id":"67","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"96","target":"3","id":"112","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"111","target":"3","id":"66","attributes":{},"color":"rgb(46,99,135)","size":7.0},{"label":"","source":"145","target":"3","id":"73","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"8","target":"3","id":"21","attributes":{},"color":"rgb(46,99,135)","size":15.0},{"label":"","source":"110","target":"3","id":"62","attributes":{},"color":"rgb(46,99,135)","size":4.0},{"label":"","source":"155","target":"3","id":"115","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"44","target":"3","id":"19","attributes":{},"color":"rgb(46,99,135)","size":48.0},{"label":"","source":"40","target":"3","id":"14","attributes":{},"color":"rgb(46,99,135)","size":1.0},{"label":"","source":"123","target":"3","id":"63","attributes":{},"color":"rgb(46,99,135)","size":4.0},{"label":"","source":"26","target":"3","id":"127","attributes":{},"color":"rgb(54,102,136)","size":350.0},{"label":"","source":"134","target":"3","id":"77","attributes":{},"color":"rgb(46,99,135)","size":1.0}],"nodes":[{"label":"China","x":1495.816162109375,"y":664.7313842773438,"id":"31","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/gjXYVh\"\u003eChina\u003c/a\u003e","Weight":"366.0","lng":"116.383333","ltd":"39.916666666666664"},"color":"rgb(59,174,231)","size":38.030616760253906},{"label":"Iran","x":504.4141845703125,"y":150.6677703857422,"id":"75","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/AThkGZ\"\u003eIran\u003c/a\u003e","Weight":"8.0","lng":"51.416667","ltd":"35.7"},"color":"rgb(71,200,238)","size":12.141671180725098},{"label":"Moldova","x":333.6391906738281,"y":490.322509765625,"id":"145","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eMoldova\u003c/a\u003e","Weight":"1.0","lng":"28.85","ltd":"47.0"},"color":"rgb(72,201,239)","size":12.0},{"label":"Lebanon","x":303.01788330078125,"y":159.6605987548828,"id":"123","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/7lUXp5\"\u003eLebanon\u003c/a\u003e","Weight":"4.0","lng":"35.5","ltd":"33.86666666666667"},"color":"rgb(71,200,238)","size":12.060715675354004},{"label":"Sweden","x":-128.143310546875,"y":961.946044921875,"id":"58","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/A00T8X\"\u003eSweden\u003c/a\u003e","Weight":"23.0","lng":"18.05","ltd":"59.333333333333336"},"color":"rgb(71,199,238)","size":12.44525146484375},{"label":"Slovakia","x":-150.40151977539062,"y":524.4091796875,"id":"47","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eSlovakia\u003c/a\u003e","Weight":"2.0","lng":"17.116667","ltd":"48.15"},"color":"rgb(71,200,238)","size":12.020238876342773},{"label":"Democratic Republic of the Congo","x":-69.46216583251953,"y":-576.2276000976562,"id":"65","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/fbmWr0\"\u003eDemocratic Republic of the Congo\u003c/a\u003e","Weight":"7.0","lng":"15.3","ltd":"-4.316666666666666"},"color":"rgb(71,200,238)","size":12.121432304382324},{"label":"New Zealand","x":2013.788330078125,"y":-671.402099609375,"id":"89","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/SgYLB6\"\u003eNew Zealand\u003c/a\u003e","Weight":"3.0","lng":"174.783333","ltd":"-41.3"},"color":"rgb(71,200,238)","size":12.040477752685547},{"label":"Mexico","x":-2104.277587890625,"y":-137.60140991210938,"id":"63","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/lf0Uey\"\u003eMexico\u003c/a\u003e","Weight":"11.0","lng":"-99.133333","ltd":"19.433333333333334"},"color":"rgb(71,200,238)","size":12.202386856079102},{"label":"Bolivia","x":-1563.516357421875,"y":-775.51806640625,"id":"53","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/V9HfVN\"\u003eBolivia\u003c/a\u003e","Weight":"9.0","lng":"-68.15","ltd":"-16.5"},"color":"rgb(71,200,238)","size":12.161910057067871},{"label":"Czechoslovakia","x":39.49127197265625,"y":483.5984191894531,"id":"18","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"http://catalog.osaarchivum.org/?_\u003d1490643024133\u0026f%5Bdigital_collection%5D%5B%5D\u003dFree+Europe+Committee+Encrypted+Telex+Communication\u0026f%5Bsubject_geo_facet%5D%5B%5D\u003dCzechoslovakia\"\u003eCzechoslovakia\u003c/a\u003e","Weight":"1571.0","lng":"14.466667","ltd":"50.08333333"},"color":"rgb(15,54,192)","size":49.70316696166992},{"label":"Libya","x":-176.3134307861328,"y":-12.686285018920898,"id":"139","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eLibya\u003c/a\u003e","Weight":"1.0","lng":"13.166667","ltd":"32.88333333333333"},"color":"rgb(72,201,239)","size":12.0},{"label":"Haiti","x":-1685.533935546875,"y":-128.20799255371094,"id":"116","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/m1FNQw\"\u003eHaiti\u003c/a\u003e","Weight":"3.0","lng":"-72.333333","ltd":"18.533333333333335"},"color":"rgb(71,200,238)","size":12.040477752685547},{"label":"Portugal","x":-644.2825317382812,"y":217.9709014892578,"id":"14","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/pZ6dVN\"\u003ePortugal\u003c/a\u003e","Weight":"65.0","lng":"-9.133333","ltd":"38.71666667"},"color":"rgb(69,196,237)","size":36.49818420410156},{"label":"Chile","x":-1622.3555908203125,"y":-1088.381591796875,"id":"8","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/BnjzbJ\"\u003eChile\u003c/a\u003e","Weight":"15.0","lng":"-70.666667","ltd":"-33.45"},"color":"rgb(71,199,238)","size":12.283342361450195},{"label":"United Arab Emirates","x":574.8028564453125,"y":-42.847015380859375,"id":"92","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/kjGPWd\"\u003eUnited Arab Emirates\u003c/a\u003e","Weight":"18.0","lng":"54.366667","ltd":"24.466666666666665"},"color":"rgb(71,199,238)","size":12.3440580368042},{"label":"India","x":1057.3524169921875,"y":-154.5293426513672,"id":"36","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/YAFddY\"\u003eIndia\u003c/a\u003e","Weight":"45.0","lng":"77.2","ltd":"-7.3"},"color":"rgb(70,197,238)","size":12.8905029296875},{"label":"Lithuania","x":167.0856170654297,"y":762.5067138671875,"id":"111","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/Kxm64o\"\u003eLithuania\u003c/a\u003e","Weight":"7.0","lng":"25.316667","ltd":"54.68333333333333"},"color":"rgb(71,200,238)","size":12.121432304382324},{"label":"Singapore","x":1532.1571044921875,"y":-12.949091911315918,"id":"117","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/MkoDS5\"\u003eSingapore\u003c/a\u003e","Weight":"2.0","lng":"103.85","ltd":"1.2833333333333332"},"color":"rgb(71,200,238)","size":12.020238876342773},{"label":"Uganda","x":181.43359375,"y":-466.0378723144531,"id":"61","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/GkeHxK\"\u003eUganda\u003c/a\u003e","Weight":"4.0","lng":"32.55","ltd":"0.31666666666666665"},"color":"rgb(71,200,238)","size":12.060715675354004},{"label":"Burma","x":1362.4276123046875,"y":249.22091674804688,"id":"39","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/NFwnKz\"\u003eBurma\u003c/a\u003e","Weight":"10.0","lng":"96.15","ltd":"16.8"},"color":"rgb(71,200,238)","size":12.182147979736328},{"label":"Sikkim","x":1250.596435546875,"y":469.53240966796875,"id":"113","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/MN4KsS\"\u003eSikkim\u003c/a\u003e","Weight":"1.0","lng":"88.5122","ltd":"27.533"},"color":"rgb(72,201,239)","size":12.0},{"label":"Azerbaijan","x":580.6492919921875,"y":287.2496643066406,"id":"156","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/HPz1tY\"\u003eAzerbaijan\u003c/a\u003e","Weight":"2.0","lng":"49.866667","ltd":"40.38333333333333"},"color":"rgb(71,200,238)","size":12.020238876342773},{"label":"Dominican Republic","x":-1626.126953125,"y":-173.40789794921875,"id":"41","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/VUHTno\u003eDominican Republic\u003c/a\u003e","Weight":"26.0","lng":"-69.9","ltd":"18.466666666666665"},"color":"rgb(71,199,238)","size":12.50596809387207},{"label":"Greece","x":-52.490089416503906,"y":248.84054565429688,"id":"73","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/oUWIrC\"\u003eGreece\u003c/a\u003e","Weight":"26.0","lng":"23.733333","ltd":"37.983333333333334"},"color":"rgb(71,199,238)","size":12.50596809387207},{"label":"Israel","x":251.97467041015625,"y":-30.360816955566406,"id":"48","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/4rmBCs\"\u003eIsrael\u003c/a\u003e","Weight":"92.0","lng":"35.233333","ltd":"31.766666666666666"},"color":"rgb(68,194,237)","size":36.70835494995117},{"label":"Kenya","x":281.00994873046875,"y":-517.6180419921875,"id":"62","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/DibEWp\"\u003eKenya\u003c/a\u003e","Weight":"5.0","lng":"36.816667","ltd":"-1.2833333333333332"},"color":"rgb(71,200,238)","size":12.080954551696777},{"label":"Uruguay","x":-1312.093994140625,"y":-1161.0406494140625,"id":"5","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/I0m0Di\"\u003eUruguay\u003c/a\u003e","Weight":"3.0","lng":"-56.166667","ltd":"-34.85"},"color":"rgb(71,200,238)","size":12.040477752685547},{"label":"Laos","x":1476.2105712890625,"y":290.082763671875,"id":"72","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/mrZEEy\"\u003eLaos\u003c/a\u003e","Weight":"41.0","lng":"102.6","ltd":"17.966666666666665"},"color":"rgb(70,198,238)","size":12.809548377990723},{"label":"Sri Lanka","x":1131.39013671875,"y":107.56954956054688,"id":"88","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/oGUDv8\"\u003eSri Lanka\u003c/a\u003e","Weight":"1.0","lng":"79.833333","ltd":"6.916666666666667"},"color":"rgb(72,201,239)","size":12.0},{"label":"Brazil","x":-1210.3780517578125,"y":-762.4964599609375,"id":"6","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/NxGiqp\"\u003eBrazil\u003c/a\u003e","Weight":"14.0","lng":"-47.916667","ltd":"-15.78333333"},"color":"rgb(71,200,238)","size":12.263103485107422},{"label":"Colombia","x":-1677.369140625,"y":-412.9032287597656,"id":"11","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/iSz9RT\"\u003eColombia\u003c/a\u003e","Weight":"5.0","lng":"-74.083333","ltd":"4.6"},"color":"rgb(71,200,238)","size":12.080954551696777},{"label":"Luxemburg","x":-238.0836639404297,"y":570.7965698242188,"id":"169","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eLuxemburg\u003c/a\u003e","Weight":"1.0","lng":"6.116667","ltd":"49.6"},"color":"rgb(72,201,239)","size":12.0},{"label":"Netherlands","x":-388.68377685546875,"y":616.6318359375,"id":"82","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/UGYNF8\"\u003eNetherlands\u003c/a\u003e","Weight":"13.0","lng":"4.916667","ltd":"52.35"},"color":"rgb(71,200,238)","size":12.242864608764648},{"label":"British Guiana","x":-1392.2098388671875,"y":-388.2163391113281,"id":"104","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/9iqs1V\"\u003eBritish Guiana\u003c/a\u003e","Weight":"3.0","lng":"-58.93018000000001","ltd":"4.860416"},"color":"rgb(71,200,238)","size":12.040477752685547},{"label":"Paraguay","x":-1380.5477294921875,"y":-939.489990234375,"id":"128","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/CEIeqq\"\u003eParaguay\u003c/a\u003e","Weight":"1.0","lng":"-57.666667","ltd":"-25.266666666666666"},"color":"rgb(72,201,239)","size":12.0},{"label":"Spain","x":-520.9902954101562,"y":291.8135986328125,"id":"42","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/RrYr51\"\u003eSpain\u003c/a\u003e","Weight":"27.0","lng":"-3.683333","ltd":"40.4"},"color":"rgb(71,199,238)","size":12.526206970214844},{"label":"Guinea","x":-613.1846313476562,"y":-316.9024658203125,"id":"94","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/cHo0WZ\"\u003eGuinea\u003c/a\u003e","Weight":"2.0","lng":"-13.7","ltd":"9.5"},"color":"rgb(71,200,238)","size":12.020238876342773},{"label":"Italy","x":-248.7863311767578,"y":244.50254821777344,"id":"27","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/44SCkv\"\u003eItaly\u003c/a\u003e","Weight":"58.0","lng":"12.483333","ltd":"41.9"},"color":"rgb(70,196,237)","size":13.153606414794922},{"label":"Austria","x":-187.58660888671875,"y":373.3848876953125,"id":"51","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/3Ve2tB\"\u003eAustria\u003c/a\u003e","Weight":"84.0","lng":"16.366667","ltd":"48.2"},"color":"rgb(69,194,237)","size":36.64608383178711},{"label":"Germany","x":-285.0698547363281,"y":746.1121826171875,"id":"12","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"http://catalog.osaarchivum.org/?_\u003d1490643024133\u0026f%5Bdigital_collection%5D%5B%5D\u003dFree+Europe+Committee+Encrypted+Telex+Communication\u0026f%5Bsubject_geo_facet%5D%5B%5D\u003dGermany\"\u003eGermany\u003c/a\u003e","Weight":"1275.0","lng":"13.4","ltd":"52.51666667"},"color":"rgb(26,89,204)","size":45.578102111816406},{"label":"Macedonia","x":66.14331817626953,"y":290.02166748046875,"id":"161","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eMacedonia\u003c/a\u003e","Weight":"2.0","lng":"21.433333","ltd":"42.0"},"color":"rgb(71,200,238)","size":12.020238876342773},{"label":"Malaysia","x":1475.28466796875,"y":36.98670959472656,"id":"69","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"goo.gl/8x3ckk\"\u003eMalaysia\u003c/a\u003e","Weight":"12.0","lng":"101.7","ltd":"3.1666666666666665"},"color":"rgb(71,200,238)","size":12.222625732421875},{"label":"Pakistan","x":919.403076171875,"y":127.15050506591797,"id":"87","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/hD4Jqj\"\u003ePakistan\u003c/a\u003e","Weight":"9.0","lng":"73.05","ltd":"33.68333333333333"},"color":"rgb(71,200,238)","size":12.161910057067871},{"label":"Guadelupe","x":-1420.135498046875,"y":-223.0424041748047,"id":"130","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/n7LNtQ\"\u003eGuadelupe\u003c/a\u003e","Weight":"1.0","lng":"-61.5","ltd":"16.265"},"color":"rgb(72,201,239)","size":12.0},{"label":"Afghanistan","x":815.8765258789062,"y":173.29193115234375,"id":"77","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"http://catalog.osaarchivum.org/?_\u003d1490642917158\u0026f%5Bdigital_collection%5D%5B%5D\u003dFree+Europe+Committee+Encrypted+Telex+Communication\u0026f%5Bsubject_geo_facet%5D%5B%5D\u003dAfghanistan\"\u003eAfghanistan\u003c/a\u003e","Weight":"3.0","lng":"69.183333","ltd":"34.516666666666666"},"color":"rgb(71,200,238)","size":12.040477752685547},{"label":"Switzerland","x":-471.2853088378906,"y":352.33599853515625,"id":"57","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/GQGmmn\"\u003eSwitzerland\u003c/a\u003e","Weight":"21.0","lng":"7.466667","ltd":"46.916666666666664"},"color":"rgb(71,199,238)","size":12.40477466583252},{"label":"Hong Kong","x":1492.0926513671875,"y":456.24652099609375,"id":"121","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/lywwxh\"\u003eHong Kong\u003c/a\u003e","Weight":"4.0","lng":"114.149139","ltd":"22.286394"},"color":"rgb(71,200,238)","size":12.060715675354004},{"label":"SFR Yugoslavia","x":431.1152648925781,"y":339.1620178222656,"id":"26","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/WctK1b\"\u003eSFR Yugoslavia\u003c/a\u003e","Weight":"350.0","lng":"20.5","ltd":"44.83333333"},"color":"rgb(60,175,231)","size":37.897769927978516},{"label":"Tunisia","x":-39.374969482421875,"y":32.99274444580078,"id":"91","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/OUax3q\"\u003eTunisia\u003c/a\u003e","Weight":"11.0","lng":"10.183333","ltd":"36.8"},"color":"rgb(71,200,238)","size":12.202386856079102},{"label":"Japan","x":1928.3516845703125,"y":550.8861083984375,"id":"29","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/jj0d2a\"\u003eJapan\u003c/a\u003e","Weight":"31.0","lng":"139.75","ltd":"35.68333333333333"},"color":"rgb(70,198,238)","size":12.607161521911621},{"label":"Cuba","x":-1814.8829345703125,"y":-66.9112548828125,"id":"30","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/n4DtXd\"\u003eCuba\u003c/a\u003e","Weight":"163.0","lng":"-82.35","ltd":"23.116666666666667"},"color":"rgb(66,189,235)","size":36.345096588134766},{"label":"Albania","x":-156.1201934814453,"y":169.18096923828125,"id":"68","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"http://catalog.osaarchivum.org/?_\u003d1490857118749\u0026f%5Bdigital_collection%5D%5B%5D\u003dFree+Europe+Committee+Encrypted+Telex+Communication\u0026f%5Bsubject_geo_facet%5D%5B%5D\u003dAlbania\"\u003eAlbania\u003c/a\u003e","Weight":"127.0","lng":"19.816667","ltd":"41.31666666666667"},"color":"rgb(67,191,236)","size":36.98080062866211},{"label":"Canada","x":-1693.2628173828125,"y":421.9747314453125,"id":"44","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/6TSc7B\"\u003eCanada\u003c/a\u003e","Weight":"48.0","lng":"-75.7","ltd":"45.416666666666664"},"color":"rgb(70,197,238)","size":12.95121955871582},{"label":"South Africa","x":95.95156860351562,"y":-925.0189208984375,"id":"80","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/z2hu8r\"\u003eSouth Africa\u003c/a\u003e","Weight":"8.0","lng":"28.216667","ltd":"-25.7"},"color":"rgb(71,200,238)","size":12.141671180725098},{"label":"Mongolia","x":1530.477294921875,"y":793.9196166992188,"id":"33","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/dJnULm\"\u003eMongolia\u003c/a\u003e","Weight":"9.0","lng":"106.916667","ltd":"47.916666666666664"},"color":"rgb(71,200,238)","size":12.161910057067871},{"label":"Mauritania","x":-652.7454223632812,"y":-162.79180908203125,"id":"64","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/aQCcHA\"\u003eMauritania\u003c/a\u003e","Weight":"2.0","lng":"-15.966667","ltd":"18.066666666666666"},"color":"rgb(71,200,238)","size":12.020238876342773},{"label":"United Kingdom","x":-713.4194946289062,"y":662.3770751953125,"id":"24","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/vrXPdo\"\u003eUnited Kingdom\u003c/a\u003e","Weight":"72.0","lng":"-0.083333","ltd":"51.5"},"color":"rgb(69,195,237)","size":36.55267333984375},{"label":"Algeria","x":-450.743408203125,"y":54.90735626220703,"id":"37","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/k3Y0Ea\"\u003eAlgeria\u003c/a\u003e","Weight":"27.0","lng":"3.05","ltd":"36.75"},"color":"rgb(71,199,238)","size":12.526206970214844},{"label":"France","x":-594.2239990234375,"y":424.4860534667969,"id":"16","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/IMLw4n\"\u003eFrance\u003c/a\u003e","Weight":"116.0","lng":"2.333333","ltd":"48.86666667"},"color":"rgb(68,192,236)","size":36.895172119140625},{"label":"Estonia","x":165.30960083007812,"y":845.2023315429688,"id":"109","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/AeRYKo\"\u003eEstonia\u003c/a\u003e","Weight":"2.0","lng":"25.0136","ltd":"58.5953"},"color":"rgb(71,200,238)","size":12.020238876342773},{"label":"Argentina","x":-1428.74853515625,"y":-1111.7662353515625,"id":"4","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/DGKfM1\"\u003eArgentina\u003c/a\u003e","Weight":"7.0","lng":"-58.666667","ltd":"-34.58333333"},"color":"rgb(71,200,238)","size":12.121432304382324},{"label":"Bulgaria","x":35.10750198364258,"y":148.91171264648438,"id":"17","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/qsHD6d\"\u003eBulgaria\u003c/a\u003e","Weight":"747.0","lng":"23.316667","ltd":"42.68333333"},"color":"rgb(47,146,224)","size":41.19408416748047},{"label":"Liberia","x":-569.1220703125,"y":-366.5378723144531,"id":"107","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/3ZcDBb\"\u003eLiberia\u003c/a\u003e","Weight":"1.0","lng":"-10.8","ltd":"6.3"},"color":"rgb(72,201,239)","size":12.0},{"label":"Norway","x":-183.0303497314453,"y":871.230712890625,"id":"84","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/J40Uqa\"\u003eNorway\u003c/a\u003e","Weight":"5.0","lng":"10.75","ltd":"59.916666666666664"},"color":"rgb(71,200,238)","size":12.080954551696777},{"label":"Morroco","x":-518.8685302734375,"y":125.1396484375,"id":"28","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/xXouX0\"\u003eMorocco\u003c/a\u003e","Weight":"9.0","lng":"-6.816667","ltd":"34.01666667"},"color":"rgb(71,200,238)","size":12.161910057067871},{"label":"Mozambique","x":213.20497131347656,"y":-970.588134765625,"id":"134","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"http://catalog.osaarchivum.org/?_\u003d1491484482384\u0026f%5Bdigital_collection%5D%5B%5D\u003dFree+Europe+Committee+Encrypted+Telex+Communication\u0026f%5Bsubject_geo_facet%5D%5B%5D\u003dMozambique\"\u003eMozambique\u003c/a\u003e","Weight":"1.0","lng":"32.583333","ltd":"-25.95"},"color":"rgb(72,201,239)","size":12.0},{"label":"Vietnam","x":1582.9130859375,"y":350.0675354003906,"id":"43","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"http://catalog.osaarchivum.org/?_\u003d1491484482384\u0026f%5Bdigital_collection%5D%5B%5D\u003dFree+Europe+Committee+Encrypted+Telex+Communication\u0026f%5Bsubject_geo_facet%5D%5B%5D\u003dNorth+Vietnam\"\u003eVietnam\u003c/a\u003e","Weight":"266.0","lng":"105.85","ltd":"21.033333333333335"},"color":"rgb(63,181,233)","size":37.20030975341797},{"label":"North Korea","x":1690.12353515625,"y":625.2142944335938,"id":"50","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/Uk68rG\"\u003eNorth Korea\u003c/a\u003e","Weight":"24.0","lng":"125.75","ltd":"39.016666666666666"},"color":"rgb(71,199,238)","size":12.465490341186523},{"label":"Australia","x":1566.111328125,"y":-537.1130981445312,"id":"83","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/t1cerO\"\u003eAustralia\u003c/a\u003e","Weight":"13.0","lng":"149.133333","ltd":"-35.266666666666666"},"color":"rgb(71,200,238)","size":12.242864608764648},{"label":"Turkmenistan","x":767.8512573242188,"y":241.63204956054688,"id":"155","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eTurkmenistan\u003c/a\u003e","Weight":"1.0","lng":"58.383333","ltd":"37.95"},"color":"rgb(72,201,239)","size":12.0},{"label":"Togo","x":-328.4087219238281,"y":-365.39263916015625,"id":"96","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/5Kvlwu\"\u003eTogo\u003c/a\u003e","Weight":"1.0","lng":"1.216667","ltd":"6.116666666666666"},"color":"rgb(72,201,239)","size":12.0},{"label":"Panama","x":-1750.7708740234375,"y":-340.4743347167969,"id":"59","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/zgI26c\"\u003ePanama\u003c/a\u003e","Weight":"14.0","lng":"-79.533333","ltd":"8.966666666666667"},"color":"rgb(71,200,238)","size":12.263103485107422},{"label":"Sudan","x":187.99139404296875,"y":-202.00015258789062,"id":"54","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eSudan\u003c/a\u003e","Weight":"13.0","lng":"32.533333","ltd":"15.6"},"color":"rgb(71,200,238)","size":12.242864608764648},{"label":"Iraq","x":505.1888122558594,"y":66.68658447265625,"id":"103","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/ekmbb6\"\u003eIraq\u003c/a\u003e","Weight":"5.0","lng":"44.4","ltd":"33.333333333333336"},"color":"rgb(71,200,238)","size":12.080954551696777},{"label":"Latvia","x":142.9459686279297,"y":917.828857421875,"id":"110","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/4ZGOzz\"\u003eLatvia\u003c/a\u003e","Weight":"4.0","lng":"24.1","ltd":"56.95"},"color":"rgb(71,200,238)","size":12.060715675354004},{"label":"Philippines","x":1821.224853515625,"y":230.84715270996094,"id":"93","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/lhTQBY\"\u003ePhilippines\u003c/a\u003e","Weight":"1.0","lng":"120.966667","ltd":"14.6"},"color":"rgb(72,201,239)","size":12.0},{"label":"Portuguese Guinea","x":2222.45556640625,"y":83.66719055175781,"id":"126","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/m4Sv1U\"\u003ePortuguese Guinea\u003c/a\u003e","Weight":"1.0","lng":"143.9555","ltd":"6.315"},"color":"rgb(72,201,239)","size":12.0},{"label":"Egypt","x":97.43802642822266,"y":-29.708026885986328,"id":"100","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/HTDqpY\u003eEgypt\u003c/a\u003e","Weight":"19.0","lng":"30.8025","ltd":"26.8206"},"color":"rgb(71,199,238)","size":12.364296913146973},{"label":"Tibet","x":1304.444091796875,"y":519.3096313476562,"id":"71","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/KFH4K4\"\u003eTibet\u003c/a\u003e","Weight":"4.0","lng":"91.1175","ltd":"29.6475"},"color":"rgb(71,200,238)","size":12.060715675354004},{"label":"Georgia","x":509.7408447265625,"y":197.8505859375,"id":"164","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eGeorgia\u003c/a\u003e","Weight":"1.0","lng":"44.833333","ltd":"41.68333333333333"},"color":"rgb(72,201,239)","size":12.0},{"label":"Taiwan","x":1675.5821533203125,"y":502.1519775390625,"id":"122","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/N1Ks4q\"\u003eTaiwan\u003c/a\u003e","Weight":"3.0","lng":"121.516667","ltd":"25.033333333333335"},"color":"rgb(71,200,238)","size":12.040477752685547},{"label":"Kazakhstan","x":872.3814697265625,"y":559.2802734375,"id":"154","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eKazakhstan\u003c/a\u003e","Weight":"1.0","lng":"71.416667","ltd":"51.166666666666664"},"color":"rgb(72,201,239)","size":12.0},{"label":"Brunei","x":1715.92333984375,"y":58.55943298339844,"id":"40","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/EH37bI\"\u003eBrunei\u003c/a\u003e","Weight":"1.0","lng":"114.933333","ltd":"4.883333333333333"},"color":"rgb(72,201,239)","size":12.0},{"label":"USA","x":-1718.5880126953125,"y":250.05764770507812,"id":"2","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/4Wiq95\"\u003eUSA\u003c/a\u003e","Weight":"1246.0","lng":"-77.0","ltd":"38.88333"},"color":"rgb(28,93,206)","size":45.337310791015625},{"label":"Congo","x":-161.84361267089844,"y":-524.3099365234375,"id":"46","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/01291Q\"\u003eCongo\u003c/a\u003e","Weight":"45.0","lng":"15.3","ltd":"-4.316666666666666"},"color":"rgb(70,197,238)","size":12.8905029296875},{"label":"Cyprus","x":160.80160522460938,"y":207.25653076171875,"id":"52","attributes":{"Search Blinken OSA for this country":"\u003c a href\u003d\"https://goo.gl/ihXWQb\"\u003eCyprus\u003c/a\u003e","Weight":"14.0","lng":"33.366667","ltd":"35.166666666666664"},"color":"rgb(71,200,238)","size":12.263103485107422},{"label":"Mali","x":-513.7008666992188,"y":-260.8736877441406,"id":"95","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/oHcSx2\"\u003eMali\u003c/a\u003e","Weight":"1.0","lng":"-8.0","ltd":"12.65"},"color":"rgb(72,201,239)","size":12.0},{"label":"Indonesia","x":1574.2607421875,"y":-134.6112518310547,"id":"38","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/NBmiJC\"\u003eIndonesia\u003c/a\u003e","Weight":"17.0","lng":"106.816667","ltd":"-6.166666666666667"},"color":"rgb(71,199,238)","size":12.323819160461426},{"label":"Peru","x":-1718.8507080078125,"y":-695.3536376953125,"id":"9","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/jd4lmv\"\u003ePeru\u003c/a\u003e","Weight":"4.0","lng":"-77.05","ltd":"-12.05"},"color":"rgb(71,200,238)","size":12.060715675354004},{"label":"Ceylon","x":1037.7255859375,"y":61.6551513671875,"id":"114","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/3ndZOS\"\u003eCeylon\u003c/a\u003e","Weight":"1.0","lng":"79.833333","ltd":"6.916666666666667"},"color":"rgb(72,201,239)","size":12.0},{"label":"Serbia","x":-32.91315460205078,"y":331.3052673339844,"id":"143","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eSerbia\u003c/a\u003e","Weight":"2.0","lng":"20.5","ltd":"44.833333333333336"},"color":"rgb(71,200,238)","size":12.020238876342773},{"label":"South Korea","x":1713.9892578125,"y":574.6693115234375,"id":"49","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/2WcU7c\"\u003eSouth Korea\u003c/a\u003e","Weight":"5.0","lng":"126.983333","ltd":"37.55"},"color":"rgb(71,200,238)","size":12.080954551696777},{"label":"Monaco","x":-313.52593994140625,"y":311.2298583984375,"id":"142","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eMonaco\u003c/a\u003e","Weight":"2.0","lng":"7.416667","ltd":"43.733333333333334"},"color":"rgb(71,200,238)","size":12.020238876342773},{"label":"Belarus","x":239.48655700683594,"y":803.1040649414062,"id":"165","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eBelarus\u003c/a\u003e","Weight":"1.0","lng":"27.566667","ltd":"53.9"},"color":"rgb(72,201,239)","size":12.0},{"label":"Belgium","x":-408.36907958984375,"y":693.3485717773438,"id":"66","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/XgbzgD\"\u003eBelgium\u003c/a\u003e","Weight":"21.0","lng":"4.333333","ltd":"50.833333333333336"},"color":"rgb(71,199,238)","size":12.40477466583252},{"label":"Hungary","x":248.41302490234375,"y":625.2488403320312,"id":"1","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/VWbfzz\"\u003eHungary\u003c/a\u003e","Weight":"1005.0","lng":"19.083333","ltd":"47.5"},"color":"rgb(37,122,216)","size":43.336273193359375},{"label":"Ecuador","x":-1744.157958984375,"y":-487.2552795410156,"id":"10","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/dP75O4\"\u003eEcuador\u003c/a\u003e","Weight":"3.0","lng":"-78.5","ltd":"-0.216666667"},"color":"rgb(71,200,238)","size":12.040477752685547},{"label":"Honduras","x":-1870.112060546875,"y":-249.0720977783203,"id":"127","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/HSdDoz\"\u003eHonduras\u003c/a\u003e","Weight":"1.0","lng":"-87.216667","ltd":"14.1"},"color":"rgb(72,201,239)","size":12.0},{"label":"Venezuela","x":-1539.681884765625,"y":-297.7286071777344,"id":"7","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/xVZd1K\"\u003eVenezuela\u003c/a\u003e","Weight":"9.0","lng":"-66.866667","ltd":"10.48333333"},"color":"rgb(71,200,238)","size":12.161910057067871},{"label":"Costa Rica","x":-1852.3831787109375,"y":-300.0861511230469,"id":"105","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/cgaFLb\"\u003eCosta Rica\u003c/a\u003e","Weight":"2.0","lng":"-84.083333","ltd":"9.933333333333334"},"color":"rgb(71,200,238)","size":12.020238876342773},{"label":"Jordan","x":360.87127685546875,"y":61.09861755371094,"id":"70","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/3VDZw7\"\u003eJordan\u003c/a\u003e","Weight":"8.0","lng":"35.933333","ltd":"31.95"},"color":"rgb(71,200,238)","size":12.141671180725098},{"label":"Angola","x":-281.0867004394531,"y":106.49412536621094,"id":"98","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/EpcX1X\"\u003eAngola\u003c/a\u003e","Weight":"11.0","lng":"3.05","ltd":"36.75"},"color":"rgb(71,200,238)","size":12.202386856079102},{"label":"Zimbabwe","x":134.7744903564453,"y":-145.3265380859375,"id":"133","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eZimbabwe\u003c/a\u003e","Weight":"4.0","lng":"29.1549","ltd":"19.0154"},"color":"rgb(71,200,238)","size":12.060715675354004},{"label":"Syria","x":397.63677978515625,"y":112.70867156982422,"id":"106","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/yWtXBd\"\u003eSyria\u003c/a\u003e","Weight":"16.0","lng":"36.3","ltd":"33.5"},"color":"rgb(71,199,238)","size":12.303580284118652},{"label":"Tanzania ","x":332.8166198730469,"y":-624.0390625,"id":"137","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eTanzania\u003c/a\u003e","Weight":"2.0","lng":"39.283333","ltd":"-6.8"},"color":"rgb(71,200,238)","size":12.020238876342773},{"label":"Ukraine","x":395.8094787597656,"y":552.4303588867188,"id":"32","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/z5gzsz\"\u003eUkraine\u003c/a\u003e","Weight":"9.0","lng":"30.516667","ltd":"50.43333333333333"},"color":"rgb(71,200,238)","size":12.161910057067871},{"label":"Thailand","x":1451.2301025390625,"y":205.5286407470703,"id":"81","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/Sk9MKj\"\u003eThailand\u003c/a\u003e","Weight":"8.0","lng":"100.516667","ltd":"13.75"},"color":"rgb(71,200,238)","size":12.141671180725098},{"label":"Finland","x":85.4272232055664,"y":972.410400390625,"id":"22","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/ZOtv3o\"\u003eFinland\u003c/a\u003e","Weight":"23.0","lng":"24.933333","ltd":"60.16666667"},"color":"rgb(71,199,238)","size":12.44525146484375},{"label":"Denmark","x":-380.5664978027344,"y":910.2808837890625,"id":"120","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/gYRIzg\"\u003eDenmark\u003c/a\u003e","Weight":"17.0","lng":"9.5018","ltd":"56.2639"},"color":"rgb(71,199,238)","size":12.323819160461426},{"label":"Guatemala","x":-1984.158935546875,"y":-209.18893432617188,"id":"119","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/uy8HrB\"\u003eGuatemala\u003c/a\u003e","Weight":"2.0","lng":"-90.516667","ltd":"14.616666666666667"},"color":"rgb(71,200,238)","size":12.020238876342773},{"label":"Somalia","x":417.14141845703125,"y":-447.395751953125,"id":"138","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003eSomalia\u003c/a\u003e","Weight":"1.0","lng":"45.333333","ltd":"2.066666666666667"},"color":"rgb(72,201,239)","size":12.0},{"label":"Cameroon","x":-168.53883361816406,"y":-420.5879821777344,"id":"79","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/wzF1wF\"\u003eCameroon\u003c/a\u003e","Weight":"2.0","lng":"11.516667","ltd":"3.8666666666666667"},"color":"rgb(71,200,238)","size":12.020238876342773},{"label":"Yemen","x":403.04144287109375,"y":-218.39306640625,"id":"125","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/XRHi4Q\"\u003eYemen\u003c/a\u003e","Weight":"1.0","lng":"44.2","ltd":"15.35"},"color":"rgb(72,201,239)","size":12.0},{"label":"USSR","x":416.8757629394531,"y":813.5826416015625,"id":"23","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/8KCPq9\"\u003eUSSR\u003c/a\u003e","Weight":"1160.0","lng":"37.6","ltd":"55.75"},"color":"rgb(31,103,209)","size":44.62324905395508},{"label":"Kuwait","x":490.4698486328125,"y":19.862468719482422,"id":"102","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/N2bD2a\"\u003eKuwait\u003c/a\u003e","Weight":"1.0","lng":"47.966667","ltd":"29.366666666666667"},"color":"rgb(72,201,239)","size":12.0},{"label":"Vatican City","x":-398.5248718261719,"y":191.10443115234375,"id":"45","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/ilgDaE\"\u003eVatican City\u003c/a\u003e","Weight":"80.0","lng":"12.45","ltd":"41.9"},"color":"rgb(69,195,237)","size":36.61494445800781},{"label":"Romania","x":170.57611083984375,"y":385.2987365722656,"id":"15","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/bWOrxu\"\u003eRomania\u003c/a\u003e","Weight":"1020.0","lng":"26.1","ltd":"44.43333333"},"color":"rgb(37,120,215)","size":43.460819244384766},{"label":"Palestine","x":226.0430908203125,"y":101.80098724365234,"id":"140","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"\"\u003ePalestine\u003c/a\u003e","Weight":"6.0","lng":"35.204269","ltd":"31.898043"},"color":"rgb(71,200,238)","size":12.10119342803955},{"label":"Turkey","x":326.76068115234375,"y":258.32708740234375,"id":"35","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/HSvdYk\"\u003eTurkey\u003c/a\u003e","Weight":"18.0","lng":"32.866667","ltd":"39.93333333333333"},"color":"rgb(71,199,238)","size":12.3440580368042},{"label":"Puerto Rico","x":-1459.4384765625,"y":-128.9984588623047,"id":"108","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/XU7LZw\"\u003ePuerto Rico\u003c/a\u003e","Weight":"3.0","lng":"-66.116667","ltd":"18.466666666666665"},"color":"rgb(71,200,238)","size":12.040477752685547},{"label":"Cambodia","x":1552.035400390625,"y":165.76026916503906,"id":"115","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/EEsZnf\"\u003eCambodia\u003c/a\u003e","Weight":"21.0","lng":"104.916667","ltd":"11.55"},"color":"rgb(71,199,238)","size":12.40477466583252},{"label":"RFE","x":-361.5093688964844,"y":471.77471923828125,"id":"3","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/35RA2c\"\u003eRFE Collection description\u003c/a\u003e","Weight":"800.0","lng":"11.582","ltd":"48.1351"},"color":"rgb(45,142,222)","size":41.63414764404297},{"label":"Ghana","x":-412.40155029296875,"y":-411.640625,"id":"85","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/as3AMV\"\u003eGhana\u003c/a\u003e","Weight":"6.0","lng":"-0.216667","ltd":"5.55"},"color":"rgb(71,200,238)","size":12.10119342803955},{"label":"Ireland","x":-497.27850341796875,"y":739.7320556640625,"id":"99","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/gTAhFI\"\u003eIreland\u003c/a\u003e","Weight":"2.0","lng":"-6.233333","ltd":"53.31666666666667"},"color":"rgb(71,200,238)","size":12.020238876342773},{"label":"Poland","x":-18.94033432006836,"y":807.5681762695312,"id":"13","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/R9yLws\"\u003ePoland\u003c/a\u003e","Weight":"1928.0","lng":"21.0","ltd":"52.25"},"color":"rgb(1,12,177)","size":51.0},{"label":"Nigeria","x":-233.92001342773438,"y":-315.0287170410156,"id":"86","attributes":{"Search Blinken OSA for this country":"\u003ca href\u003d\"https://goo.gl/3VrJVN\"\u003eNigeria\u003c/a\u003e","Weight":"4.0","lng":"7.533333","ltd":"9.083333333333334"},"color":"rgb(71,200,238)","size":12.060715675354004}]}
+{
+  "edges": [
+    {
+      "label": "",
+      "source": "156",
+      "target": "3",
+      "id": "8",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 2
+    },
+    {
+      "label": "",
+      "source": "54",
+      "target": "3",
+      "id": "104",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 13
+    },
+    {
+      "label": "",
+      "source": "6",
+      "target": "3",
+      "id": "12",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 14
+    },
+    {
+      "label": "",
+      "source": "27",
+      "target": "3",
+      "id": "55",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 58
+    },
+    {
+      "label": "",
+      "source": "46",
+      "target": "3",
+      "id": "24",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 45
+    },
+    {
+      "label": "",
+      "source": "143",
+      "target": "3",
+      "id": "95",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 2
+    },
+    {
+      "label": "",
+      "source": "53",
+      "target": "3",
+      "id": "11",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 9
+    },
+    {
+      "label": "",
+      "source": "84",
+      "target": "3",
+      "id": "82",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 5
+    },
+    {
+      "label": "",
+      "source": "5",
+      "target": "3",
+      "id": "120",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 3
+    },
+    {
+      "label": "",
+      "source": "73",
+      "target": "3",
+      "id": "41",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 26
+    },
+    {
+      "label": "",
+      "source": "130",
+      "target": "3",
+      "id": "42",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "12",
+      "target": "3",
+      "id": "39",
+      "attributes": {
+        
+      },
+      "color": "rgb(77,124,153)",
+      "size": 1275
+    },
+    {
+      "label": "",
+      "source": "36",
+      "target": "3",
+      "id": "49",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 45
+    },
+    {
+      "label": "",
+      "source": "107",
+      "target": "3",
+      "id": "64",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "88",
+      "target": "3",
+      "id": "103",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "33",
+      "target": "3",
+      "id": "75",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 9
+    },
+    {
+      "label": "",
+      "source": "93",
+      "target": "3",
+      "id": "88",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "140",
+      "target": "3",
+      "id": "84",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 6
+    },
+    {
+      "label": "",
+      "source": "59",
+      "target": "3",
+      "id": "85",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 14
+    },
+    {
+      "label": "",
+      "source": "83",
+      "target": "3",
+      "id": "6",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 13
+    },
+    {
+      "label": "",
+      "source": "64",
+      "target": "3",
+      "id": "71",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 2
+    },
+    {
+      "label": "",
+      "source": "52",
+      "target": "3",
+      "id": "27",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 14
+    },
+    {
+      "label": "",
+      "source": "45",
+      "target": "3",
+      "id": "123",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 80
+    },
+    {
+      "label": "",
+      "source": "14",
+      "target": "3",
+      "id": "90",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 65
+    },
+    {
+      "label": "",
+      "source": "48",
+      "target": "3",
+      "id": "54",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 92
+    },
+    {
+      "label": "",
+      "source": "105",
+      "target": "3",
+      "id": "25",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 2
+    },
+    {
+      "label": "",
+      "source": "103",
+      "target": "3",
+      "id": "52",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 5
+    },
+    {
+      "label": "",
+      "source": "126",
+      "target": "3",
+      "id": "91",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "7",
+      "target": "3",
+      "id": "124",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 9
+    },
+    {
+      "label": "",
+      "source": "23",
+      "target": "3",
+      "id": "122",
+      "attributes": {
+        
+      },
+      "color": "rgb(78,114,139)",
+      "size": 1160
+    },
+    {
+      "label": "",
+      "source": "94",
+      "target": "3",
+      "id": "44",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 2
+    },
+    {
+      "label": "",
+      "source": "121",
+      "target": "3",
+      "id": "47",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 4
+    },
+    {
+      "label": "",
+      "source": "28",
+      "target": "3",
+      "id": "76",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 9
+    },
+    {
+      "label": "",
+      "source": "42",
+      "target": "3",
+      "id": "102",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 27
+    },
+    {
+      "label": "",
+      "source": "98",
+      "target": "3",
+      "id": "4",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 11
+    },
+    {
+      "label": "",
+      "source": "11",
+      "target": "3",
+      "id": "23",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 5
+    },
+    {
+      "label": "",
+      "source": "66",
+      "target": "3",
+      "id": "10",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 21
+    },
+    {
+      "label": "",
+      "source": "113",
+      "target": "3",
+      "id": "96",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "43",
+      "target": "3",
+      "id": "125",
+      "attributes": {
+        
+      },
+      "color": "rgb(51,101,135)",
+      "size": 266
+    },
+    {
+      "label": "",
+      "source": "91",
+      "target": "3",
+      "id": "113",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 11
+    },
+    {
+      "label": "",
+      "source": "165",
+      "target": "3",
+      "id": "9",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "114",
+      "target": "3",
+      "id": "20",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "70",
+      "target": "3",
+      "id": "57",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 8
+    },
+    {
+      "label": "",
+      "source": "133",
+      "target": "3",
+      "id": "93",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 4
+    },
+    {
+      "label": "",
+      "source": "62",
+      "target": "3",
+      "id": "59",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 5
+    },
+    {
+      "label": "",
+      "source": "85",
+      "target": "3",
+      "id": "40",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 6
+    },
+    {
+      "label": "",
+      "source": "31",
+      "target": "3",
+      "id": "22",
+      "attributes": {
+        
+      },
+      "color": "rgb(54,103,136)",
+      "size": 366
+    },
+    {
+      "label": "",
+      "source": "99",
+      "target": "3",
+      "id": "53",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 2
+    },
+    {
+      "label": "",
+      "source": "115",
+      "target": "3",
+      "id": "17",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 21
+    },
+    {
+      "label": "",
+      "source": "50",
+      "target": "3",
+      "id": "81",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 24
+    },
+    {
+      "label": "",
+      "source": "92",
+      "target": "3",
+      "id": "118",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 18
+    },
+    {
+      "label": "",
+      "source": "69",
+      "target": "3",
+      "id": "69",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 12
+    },
+    {
+      "label": "",
+      "source": "16",
+      "target": "3",
+      "id": "36",
+      "attributes": {
+        
+      },
+      "color": "rgb(47,99,135)",
+      "size": 116
+    },
+    {
+      "label": "",
+      "source": "117",
+      "target": "3",
+      "id": "97",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 2
+    },
+    {
+      "label": "",
+      "source": "9",
+      "target": "3",
+      "id": "87",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 4
+    },
+    {
+      "label": "",
+      "source": "80",
+      "target": "3",
+      "id": "100",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 8
+    },
+    {
+      "label": "",
+      "source": "161",
+      "target": "3",
+      "id": "68",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 2
+    },
+    {
+      "label": "",
+      "source": "47",
+      "target": "3",
+      "id": "98",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 2
+    },
+    {
+      "label": "",
+      "source": "63",
+      "target": "3",
+      "id": "72",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 11
+    },
+    {
+      "label": "",
+      "source": "120",
+      "target": "3",
+      "id": "30",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 17
+    },
+    {
+      "label": "",
+      "source": "89",
+      "target": "3",
+      "id": "79",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 3
+    },
+    {
+      "label": "",
+      "source": "51",
+      "target": "3",
+      "id": "7",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 84
+    },
+    {
+      "label": "",
+      "source": "1",
+      "target": "3",
+      "id": "48",
+      "attributes": {
+        
+      },
+      "color": "rgb(74,112,139)",
+      "size": 1005
+    },
+    {
+      "label": "",
+      "source": "13",
+      "target": "3",
+      "id": "89",
+      "attributes": {
+        
+      },
+      "color": "rgb(68,180,232)",
+      "size": 1928
+    },
+    {
+      "label": "",
+      "source": "35",
+      "target": "3",
+      "id": "114",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 18
+    },
+    {
+      "label": "",
+      "source": "82",
+      "target": "3",
+      "id": "78",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 13
+    },
+    {
+      "label": "",
+      "source": "32",
+      "target": "3",
+      "id": "117",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 9
+    },
+    {
+      "label": "",
+      "source": "37",
+      "target": "3",
+      "id": "3",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 27
+    },
+    {
+      "label": "",
+      "source": "77",
+      "target": "3",
+      "id": "1",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 3
+    },
+    {
+      "label": "",
+      "source": "119",
+      "target": "3",
+      "id": "43",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 2
+    },
+    {
+      "label": "",
+      "source": "18",
+      "target": "3",
+      "id": "28",
+      "attributes": {
+        
+      },
+      "color": "rgb(73,149,188)",
+      "size": 1571
+    },
+    {
+      "label": "",
+      "source": "38",
+      "target": "3",
+      "id": "50",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 17
+    },
+    {
+      "label": "",
+      "source": "39",
+      "target": "3",
+      "id": "16",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 10
+    },
+    {
+      "label": "",
+      "source": "102",
+      "target": "3",
+      "id": "60",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "127",
+      "target": "3",
+      "id": "46",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "72",
+      "target": "3",
+      "id": "61",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 41
+    },
+    {
+      "label": "",
+      "source": "164",
+      "target": "3",
+      "id": "38",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "81",
+      "target": "3",
+      "id": "110",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 8
+    },
+    {
+      "label": "",
+      "source": "29",
+      "target": "3",
+      "id": "56",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 31
+    },
+    {
+      "label": "",
+      "source": "142",
+      "target": "3",
+      "id": "74",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 2
+    },
+    {
+      "label": "",
+      "source": "139",
+      "target": "3",
+      "id": "65",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "137",
+      "target": "3",
+      "id": "109",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 2
+    },
+    {
+      "label": "",
+      "source": "100",
+      "target": "3",
+      "id": "33",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 19
+    },
+    {
+      "label": "",
+      "source": "58",
+      "target": "3",
+      "id": "105",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 23
+    },
+    {
+      "label": "",
+      "source": "86",
+      "target": "3",
+      "id": "80",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 4
+    },
+    {
+      "label": "",
+      "source": "4",
+      "target": "3",
+      "id": "5",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 7
+    },
+    {
+      "label": "",
+      "source": "24",
+      "target": "3",
+      "id": "119",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 72
+    },
+    {
+      "label": "",
+      "source": "49",
+      "target": "3",
+      "id": "101",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 5
+    },
+    {
+      "label": "",
+      "source": "41",
+      "target": "3",
+      "id": "31",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 26
+    },
+    {
+      "label": "",
+      "source": "95",
+      "target": "3",
+      "id": "70",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "22",
+      "target": "3",
+      "id": "35",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 23
+    },
+    {
+      "label": "",
+      "source": "75",
+      "target": "3",
+      "id": "51",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 8
+    },
+    {
+      "label": "",
+      "source": "116",
+      "target": "3",
+      "id": "45",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 3
+    },
+    {
+      "label": "",
+      "source": "128",
+      "target": "3",
+      "id": "86",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "61",
+      "target": "3",
+      "id": "116",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 4
+    },
+    {
+      "label": "",
+      "source": "106",
+      "target": "3",
+      "id": "107",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 16
+    },
+    {
+      "label": "",
+      "source": "65",
+      "target": "3",
+      "id": "29",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 7
+    },
+    {
+      "label": "",
+      "source": "108",
+      "target": "3",
+      "id": "92",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 3
+    },
+    {
+      "label": "",
+      "source": "71",
+      "target": "3",
+      "id": "111",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 4
+    },
+    {
+      "label": "",
+      "source": "125",
+      "target": "3",
+      "id": "126",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "122",
+      "target": "3",
+      "id": "108",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 3
+    },
+    {
+      "label": "",
+      "source": "10",
+      "target": "3",
+      "id": "32",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 3
+    },
+    {
+      "label": "",
+      "source": "68",
+      "target": "3",
+      "id": "2",
+      "attributes": {
+        
+      },
+      "color": "rgb(47,99,135)",
+      "size": 127
+    },
+    {
+      "label": "",
+      "source": "57",
+      "target": "3",
+      "id": "106",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 21
+    },
+    {
+      "label": "",
+      "source": "138",
+      "target": "3",
+      "id": "99",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "30",
+      "target": "3",
+      "id": "26",
+      "attributes": {
+        
+      },
+      "color": "rgb(48,100,135)",
+      "size": 163
+    },
+    {
+      "label": "",
+      "source": "2",
+      "target": "3",
+      "id": "121",
+      "attributes": {
+        
+      },
+      "color": "rgb(77,121,149)",
+      "size": 1246
+    },
+    {
+      "label": "",
+      "source": "104",
+      "target": "3",
+      "id": "13",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 3
+    },
+    {
+      "label": "",
+      "source": "87",
+      "target": "3",
+      "id": "83",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 9
+    },
+    {
+      "label": "",
+      "source": "79",
+      "target": "3",
+      "id": "18",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 2
+    },
+    {
+      "label": "",
+      "source": "15",
+      "target": "3",
+      "id": "94",
+      "attributes": {
+        
+      },
+      "color": "rgb(74,112,139)",
+      "size": 1020
+    },
+    {
+      "label": "",
+      "source": "109",
+      "target": "3",
+      "id": "34",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 2
+    },
+    {
+      "label": "",
+      "source": "17",
+      "target": "3",
+      "id": "15",
+      "attributes": {
+        
+      },
+      "color": "rgb(66,108,138)",
+      "size": 747
+    },
+    {
+      "label": "",
+      "source": "154",
+      "target": "3",
+      "id": "58",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "169",
+      "target": "3",
+      "id": "67",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "96",
+      "target": "3",
+      "id": "112",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "111",
+      "target": "3",
+      "id": "66",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 7
+    },
+    {
+      "label": "",
+      "source": "145",
+      "target": "3",
+      "id": "73",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "8",
+      "target": "3",
+      "id": "21",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 15
+    },
+    {
+      "label": "",
+      "source": "110",
+      "target": "3",
+      "id": "62",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 4
+    },
+    {
+      "label": "",
+      "source": "155",
+      "target": "3",
+      "id": "115",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "44",
+      "target": "3",
+      "id": "19",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 48
+    },
+    {
+      "label": "",
+      "source": "40",
+      "target": "3",
+      "id": "14",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    },
+    {
+      "label": "",
+      "source": "123",
+      "target": "3",
+      "id": "63",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 4
+    },
+    {
+      "label": "",
+      "source": "26",
+      "target": "3",
+      "id": "127",
+      "attributes": {
+        
+      },
+      "color": "rgb(54,102,136)",
+      "size": 350
+    },
+    {
+      "label": "",
+      "source": "134",
+      "target": "3",
+      "id": "77",
+      "attributes": {
+        
+      },
+      "color": "rgb(46,99,135)",
+      "size": 1
+    }
+  ],
+  "nodes": [
+    {
+      "label": "China",
+      "x": 1495.8161621094,
+      "y": 664.73138427734,
+      "id": "31",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/gjXYVh\">China<\/a>",
+        "Weight": "366.0",
+        "lng": "116.383333",
+        "ltd": "39.916666666666664"
+      },
+      "color": "rgb(59,174,231)",
+      "size": 38.030616760254
+    },
+    {
+      "label": "Iran",
+      "x": 504.41418457031,
+      "y": 150.66777038574,
+      "id": "75",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/AThkGZ\">Iran<\/a>",
+        "Weight": "8.0",
+        "lng": "51.416667",
+        "ltd": "35.7"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.141671180725
+    },
+    {
+      "label": "Moldova",
+      "x": 333.63919067383,
+      "y": 490.32250976562,
+      "id": "145",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Moldova<\/a>",
+        "Weight": "1.0",
+        "lng": "28.85",
+        "ltd": "47.0"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Lebanon",
+      "x": 303.01788330078,
+      "y": 159.66059875488,
+      "id": "123",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/7lUXp5\">Lebanon<\/a>",
+        "Weight": "4.0",
+        "lng": "35.5",
+        "ltd": "33.86666666666667"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.060715675354
+    },
+    {
+      "label": "Sweden",
+      "x": -128.14331054688,
+      "y": 961.94604492188,
+      "id": "58",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/A00T8X\">Sweden<\/a>",
+        "Weight": "23.0",
+        "lng": "18.05",
+        "ltd": "59.333333333333336"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.445251464844
+    },
+    {
+      "label": "Slovakia",
+      "x": -150.40151977539,
+      "y": 524.4091796875,
+      "id": "47",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Slovakia<\/a>",
+        "Weight": "2.0",
+        "lng": "17.116667",
+        "ltd": "48.15"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.020238876343
+    },
+    {
+      "label": "Democratic Republic of the Congo",
+      "x": -69.46216583252,
+      "y": -576.22760009766,
+      "id": "65",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/fbmWr0\">Democratic Republic of the Congo<\/a>",
+        "Weight": "7.0",
+        "lng": "15.3",
+        "ltd": "-4.316666666666666"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.121432304382
+    },
+    {
+      "label": "New Zealand",
+      "x": 2013.7883300781,
+      "y": -671.40209960938,
+      "id": "89",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/SgYLB6\">New Zealand<\/a>",
+        "Weight": "3.0",
+        "lng": "174.783333",
+        "ltd": "-41.3"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.040477752686
+    },
+    {
+      "label": "Mexico",
+      "x": -2104.2775878906,
+      "y": -137.60140991211,
+      "id": "63",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/lf0Uey\">Mexico<\/a>",
+        "Weight": "11.0",
+        "lng": "-99.133333",
+        "ltd": "19.433333333333334"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.202386856079
+    },
+    {
+      "label": "Bolivia",
+      "x": -1563.5163574219,
+      "y": -775.51806640625,
+      "id": "53",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/V9HfVN\">Bolivia<\/a>",
+        "Weight": "9.0",
+        "lng": "-68.15",
+        "ltd": "-16.5"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.161910057068
+    },
+    {
+      "label": "Czechoslovakia",
+      "x": 39.491271972656,
+      "y": 483.59841918945,
+      "id": "18",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"http:\/\/catalog.osaarchivum.org\/?_=1490643024133&f%5Bdigital_collection%5D%5B%5D=Free+Europe+Committee+Encrypted+Telex+Communication&f%5Bsubject_geo_facet%5D%5B%5D=Czechoslovakia\">Czechoslovakia<\/a>",
+        "Weight": "1571.0",
+        "lng": "14.466667",
+        "ltd": "50.08333333"
+      },
+      "color": "rgb(15,54,192)",
+      "size": 49.70316696167
+    },
+    {
+      "label": "Libya",
+      "x": -176.31343078613,
+      "y": -12.686285018921,
+      "id": "139",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Libya<\/a>",
+        "Weight": "1.0",
+        "lng": "13.166667",
+        "ltd": "32.88333333333333"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Haiti",
+      "x": -1685.5339355469,
+      "y": -128.20799255371,
+      "id": "116",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/m1FNQw\">Haiti<\/a>",
+        "Weight": "3.0",
+        "lng": "-72.333333",
+        "ltd": "18.533333333333335"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.040477752686
+    },
+    {
+      "label": "Portugal",
+      "x": -644.28253173828,
+      "y": 217.97090148926,
+      "id": "14",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/pZ6dVN\">Portugal<\/a>",
+        "Weight": "65.0",
+        "lng": "-9.133333",
+        "ltd": "38.71666667"
+      },
+      "color": "rgb(69,196,237)",
+      "size": 36.498184204102
+    },
+    {
+      "label": "Chile",
+      "x": -1622.3555908203,
+      "y": -1088.3815917969,
+      "id": "8",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/BnjzbJ\">Chile<\/a>",
+        "Weight": "15.0",
+        "lng": "-70.666667",
+        "ltd": "-33.45"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.28334236145
+    },
+    {
+      "label": "United Arab Emirates",
+      "x": 574.80285644531,
+      "y": -42.847015380859,
+      "id": "92",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/kjGPWd\">United Arab Emirates<\/a>",
+        "Weight": "18.0",
+        "lng": "54.366667",
+        "ltd": "24.466666666666665"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.344058036804
+    },
+    {
+      "label": "India",
+      "x": 1057.3524169922,
+      "y": -154.52934265137,
+      "id": "36",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/YAFddY\">India<\/a>",
+        "Weight": "45.0",
+        "lng": "77.2",
+        "ltd": "-7.3"
+      },
+      "color": "rgb(70,197,238)",
+      "size": 12.890502929688
+    },
+    {
+      "label": "Lithuania",
+      "x": 167.08561706543,
+      "y": 762.50671386719,
+      "id": "111",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/Kxm64o\">Lithuania<\/a>",
+        "Weight": "7.0",
+        "lng": "25.316667",
+        "ltd": "54.68333333333333"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.121432304382
+    },
+    {
+      "label": "Singapore",
+      "x": 1532.1571044922,
+      "y": -12.949091911316,
+      "id": "117",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/MkoDS5\">Singapore<\/a>",
+        "Weight": "2.0",
+        "lng": "103.85",
+        "ltd": "1.2833333333333332"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.020238876343
+    },
+    {
+      "label": "Uganda",
+      "x": 181.43359375,
+      "y": -466.03787231445,
+      "id": "61",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/GkeHxK\">Uganda<\/a>",
+        "Weight": "4.0",
+        "lng": "32.55",
+        "ltd": "0.31666666666666665"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.060715675354
+    },
+    {
+      "label": "Burma",
+      "x": 1362.4276123047,
+      "y": 249.22091674805,
+      "id": "39",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/NFwnKz\">Burma<\/a>",
+        "Weight": "10.0",
+        "lng": "96.15",
+        "ltd": "16.8"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.182147979736
+    },
+    {
+      "label": "Sikkim",
+      "x": 1250.5964355469,
+      "y": 469.53240966797,
+      "id": "113",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/MN4KsS\">Sikkim<\/a>",
+        "Weight": "1.0",
+        "lng": "88.5122",
+        "ltd": "27.533"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Azerbaijan",
+      "x": 580.64929199219,
+      "y": 287.24966430664,
+      "id": "156",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/HPz1tY\">Azerbaijan<\/a>",
+        "Weight": "2.0",
+        "lng": "49.866667",
+        "ltd": "40.38333333333333"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.020238876343
+    },
+    {
+      "label": "Dominican Republic",
+      "x": -1626.126953125,
+      "y": -173.40789794922,
+      "id": "41",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/VUHTno>Dominican Republic<\/a>",
+        "Weight": "26.0",
+        "lng": "-69.9",
+        "ltd": "18.466666666666665"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.505968093872
+    },
+    {
+      "label": "Greece",
+      "x": -52.490089416504,
+      "y": 248.8405456543,
+      "id": "73",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/oUWIrC\">Greece<\/a>",
+        "Weight": "26.0",
+        "lng": "23.733333",
+        "ltd": "37.983333333333334"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.505968093872
+    },
+    {
+      "label": "Israel",
+      "x": 251.97467041016,
+      "y": -30.360816955566,
+      "id": "48",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/4rmBCs\">Israel<\/a>",
+        "Weight": "92.0",
+        "lng": "35.233333",
+        "ltd": "31.766666666666666"
+      },
+      "color": "rgb(68,194,237)",
+      "size": 36.708354949951
+    },
+    {
+      "label": "Kenya",
+      "x": 281.00994873047,
+      "y": -517.61804199219,
+      "id": "62",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/DibEWp\">Kenya<\/a>",
+        "Weight": "5.0",
+        "lng": "36.816667",
+        "ltd": "-1.2833333333333332"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.080954551697
+    },
+    {
+      "label": "Uruguay",
+      "x": -1312.0939941406,
+      "y": -1161.0406494141,
+      "id": "5",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/I0m0Di\">Uruguay<\/a>",
+        "Weight": "3.0",
+        "lng": "-56.166667",
+        "ltd": "-34.85"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.040477752686
+    },
+    {
+      "label": "Laos",
+      "x": 1476.2105712891,
+      "y": 290.08276367188,
+      "id": "72",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/mrZEEy\">Laos<\/a>",
+        "Weight": "41.0",
+        "lng": "102.6",
+        "ltd": "17.966666666666665"
+      },
+      "color": "rgb(70,198,238)",
+      "size": 12.809548377991
+    },
+    {
+      "label": "Sri Lanka",
+      "x": 1131.3901367188,
+      "y": 107.56954956055,
+      "id": "88",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/oGUDv8\">Sri Lanka<\/a>",
+        "Weight": "1.0",
+        "lng": "79.833333",
+        "ltd": "6.916666666666667"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Brazil",
+      "x": -1210.3780517578,
+      "y": -762.49645996094,
+      "id": "6",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/NxGiqp\">Brazil<\/a>",
+        "Weight": "14.0",
+        "lng": "-47.916667",
+        "ltd": "-15.78333333"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.263103485107
+    },
+    {
+      "label": "Colombia",
+      "x": -1677.369140625,
+      "y": -412.90322875977,
+      "id": "11",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/iSz9RT\">Colombia<\/a>",
+        "Weight": "5.0",
+        "lng": "-74.083333",
+        "ltd": "4.6"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.080954551697
+    },
+    {
+      "label": "Luxemburg",
+      "x": -238.08366394043,
+      "y": 570.79656982422,
+      "id": "169",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Luxemburg<\/a>",
+        "Weight": "1.0",
+        "lng": "6.116667",
+        "ltd": "49.6"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Netherlands",
+      "x": -388.68377685547,
+      "y": 616.6318359375,
+      "id": "82",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/UGYNF8\">Netherlands<\/a>",
+        "Weight": "13.0",
+        "lng": "4.916667",
+        "ltd": "52.35"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.242864608765
+    },
+    {
+      "label": "British Guiana",
+      "x": -1392.2098388672,
+      "y": -388.21633911133,
+      "id": "104",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/9iqs1V\">British Guiana<\/a>",
+        "Weight": "3.0",
+        "lng": "-58.93018000000001",
+        "ltd": "4.860416"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.040477752686
+    },
+    {
+      "label": "Paraguay",
+      "x": -1380.5477294922,
+      "y": -939.48999023438,
+      "id": "128",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/CEIeqq\">Paraguay<\/a>",
+        "Weight": "1.0",
+        "lng": "-57.666667",
+        "ltd": "-25.266666666666666"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Spain",
+      "x": -520.99029541016,
+      "y": 291.81359863281,
+      "id": "42",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/RrYr51\">Spain<\/a>",
+        "Weight": "27.0",
+        "lng": "-3.683333",
+        "ltd": "40.4"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.526206970215
+    },
+    {
+      "label": "Guinea",
+      "x": -613.18463134766,
+      "y": -316.90246582031,
+      "id": "94",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/cHo0WZ\">Guinea<\/a>",
+        "Weight": "2.0",
+        "lng": "-13.7",
+        "ltd": "9.5"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.020238876343
+    },
+    {
+      "label": "Italy",
+      "x": -248.78633117676,
+      "y": 244.50254821777,
+      "id": "27",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/44SCkv\">Italy<\/a>",
+        "Weight": "58.0",
+        "lng": "12.483333",
+        "ltd": "41.9"
+      },
+      "color": "rgb(70,196,237)",
+      "size": 13.153606414795
+    },
+    {
+      "label": "Austria",
+      "x": -187.58660888672,
+      "y": 373.38488769531,
+      "id": "51",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/3Ve2tB\">Austria<\/a>",
+        "Weight": "84.0",
+        "lng": "16.366667",
+        "ltd": "48.2"
+      },
+      "color": "rgb(69,194,237)",
+      "size": 36.646083831787
+    },
+    {
+      "label": "Germany",
+      "x": -285.06985473633,
+      "y": 746.11218261719,
+      "id": "12",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"http:\/\/catalog.osaarchivum.org\/?_=1490643024133&f%5Bdigital_collection%5D%5B%5D=Free+Europe+Committee+Encrypted+Telex+Communication&f%5Bsubject_geo_facet%5D%5B%5D=Germany\">Germany<\/a>",
+        "Weight": "1275.0",
+        "lng": "13.4",
+        "ltd": "52.51666667"
+      },
+      "color": "rgb(26,89,204)",
+      "size": 45.578102111816
+    },
+    {
+      "label": "Macedonia",
+      "x": 66.14331817627,
+      "y": 290.02166748047,
+      "id": "161",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Macedonia<\/a>",
+        "Weight": "2.0",
+        "lng": "21.433333",
+        "ltd": "42.0"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.020238876343
+    },
+    {
+      "label": "Malaysia",
+      "x": 1475.2846679688,
+      "y": 36.986709594727,
+      "id": "69",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"goo.gl\/8x3ckk\">Malaysia<\/a>",
+        "Weight": "12.0",
+        "lng": "101.7",
+        "ltd": "3.1666666666666665"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.222625732422
+    },
+    {
+      "label": "Pakistan",
+      "x": 919.40307617188,
+      "y": 127.15050506592,
+      "id": "87",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/hD4Jqj\">Pakistan<\/a>",
+        "Weight": "9.0",
+        "lng": "73.05",
+        "ltd": "33.68333333333333"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.161910057068
+    },
+    {
+      "label": "Guadelupe",
+      "x": -1420.1354980469,
+      "y": -223.0424041748,
+      "id": "130",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/n7LNtQ\">Guadelupe<\/a>",
+        "Weight": "1.0",
+        "lng": "-61.5",
+        "ltd": "16.265"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Afghanistan",
+      "x": 815.87652587891,
+      "y": 173.29193115234,
+      "id": "77",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"http:\/\/catalog.osaarchivum.org\/?_=1490642917158&f%5Bdigital_collection%5D%5B%5D=Free+Europe+Committee+Encrypted+Telex+Communication&f%5Bsubject_geo_facet%5D%5B%5D=Afghanistan\">Afghanistan<\/a>",
+        "Weight": "3.0",
+        "lng": "69.183333",
+        "ltd": "34.516666666666666"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.040477752686
+    },
+    {
+      "label": "Switzerland",
+      "x": -471.28530883789,
+      "y": 352.33599853516,
+      "id": "57",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/GQGmmn\">Switzerland<\/a>",
+        "Weight": "21.0",
+        "lng": "7.466667",
+        "ltd": "46.916666666666664"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.404774665833
+    },
+    {
+      "label": "Hong Kong",
+      "x": 1492.0926513672,
+      "y": 456.24652099609,
+      "id": "121",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/lywwxh\">Hong Kong<\/a>",
+        "Weight": "4.0",
+        "lng": "114.149139",
+        "ltd": "22.286394"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.060715675354
+    },
+    {
+      "label": "SFR Yugoslavia",
+      "x": 431.11526489258,
+      "y": 339.16201782227,
+      "id": "26",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/WctK1b\">SFR Yugoslavia<\/a>",
+        "Weight": "350.0",
+        "lng": "20.5",
+        "ltd": "44.83333333"
+      },
+      "color": "rgb(60,175,231)",
+      "size": 37.897769927979
+    },
+    {
+      "label": "Tunisia",
+      "x": -39.374969482422,
+      "y": 32.992744445801,
+      "id": "91",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/OUax3q\">Tunisia<\/a>",
+        "Weight": "11.0",
+        "lng": "10.183333",
+        "ltd": "36.8"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.202386856079
+    },
+    {
+      "label": "Japan",
+      "x": 1928.3516845703,
+      "y": 550.88610839844,
+      "id": "29",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/jj0d2a\">Japan<\/a>",
+        "Weight": "31.0",
+        "lng": "139.75",
+        "ltd": "35.68333333333333"
+      },
+      "color": "rgb(70,198,238)",
+      "size": 12.607161521912
+    },
+    {
+      "label": "Cuba",
+      "x": -1814.8829345703,
+      "y": -66.911254882812,
+      "id": "30",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/n4DtXd\">Cuba<\/a>",
+        "Weight": "163.0",
+        "lng": "-82.35",
+        "ltd": "23.116666666666667"
+      },
+      "color": "rgb(66,189,235)",
+      "size": 36.345096588135
+    },
+    {
+      "label": "Albania",
+      "x": -156.12019348145,
+      "y": 169.18096923828,
+      "id": "68",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"http:\/\/catalog.osaarchivum.org\/?_=1490857118749&f%5Bdigital_collection%5D%5B%5D=Free+Europe+Committee+Encrypted+Telex+Communication&f%5Bsubject_geo_facet%5D%5B%5D=Albania\">Albania<\/a>",
+        "Weight": "127.0",
+        "lng": "19.816667",
+        "ltd": "41.31666666666667"
+      },
+      "color": "rgb(67,191,236)",
+      "size": 36.980800628662
+    },
+    {
+      "label": "Canada",
+      "x": -1693.2628173828,
+      "y": 421.97473144531,
+      "id": "44",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/6TSc7B\">Canada<\/a>",
+        "Weight": "48.0",
+        "lng": "-75.7",
+        "ltd": "45.416666666666664"
+      },
+      "color": "rgb(70,197,238)",
+      "size": 12.951219558716
+    },
+    {
+      "label": "South Africa",
+      "x": 95.951568603516,
+      "y": -925.01892089844,
+      "id": "80",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/z2hu8r\">South Africa<\/a>",
+        "Weight": "8.0",
+        "lng": "28.216667",
+        "ltd": "-25.7"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.141671180725
+    },
+    {
+      "label": "Mongolia",
+      "x": 1530.4772949219,
+      "y": 793.91961669922,
+      "id": "33",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/dJnULm\">Mongolia<\/a>",
+        "Weight": "9.0",
+        "lng": "106.916667",
+        "ltd": "47.916666666666664"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.161910057068
+    },
+    {
+      "label": "Mauritania",
+      "x": -652.74542236328,
+      "y": -162.79180908203,
+      "id": "64",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/aQCcHA\">Mauritania<\/a>",
+        "Weight": "2.0",
+        "lng": "-15.966667",
+        "ltd": "18.066666666666666"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.020238876343
+    },
+    {
+      "label": "United Kingdom",
+      "x": -713.41949462891,
+      "y": 662.37707519531,
+      "id": "24",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/vrXPdo\">United Kingdom<\/a>",
+        "Weight": "72.0",
+        "lng": "-0.083333",
+        "ltd": "51.5"
+      },
+      "color": "rgb(69,195,237)",
+      "size": 36.552673339844
+    },
+    {
+      "label": "Algeria",
+      "x": -450.74340820312,
+      "y": 54.907356262207,
+      "id": "37",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/k3Y0Ea\">Algeria<\/a>",
+        "Weight": "27.0",
+        "lng": "3.05",
+        "ltd": "36.75"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.526206970215
+    },
+    {
+      "label": "France",
+      "x": -594.22399902344,
+      "y": 424.4860534668,
+      "id": "16",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/IMLw4n\">France<\/a>",
+        "Weight": "116.0",
+        "lng": "2.333333",
+        "ltd": "48.86666667"
+      },
+      "color": "rgb(68,192,236)",
+      "size": 36.895172119141
+    },
+    {
+      "label": "Estonia",
+      "x": 165.30960083008,
+      "y": 845.20233154297,
+      "id": "109",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/AeRYKo\">Estonia<\/a>",
+        "Weight": "2.0",
+        "lng": "25.0136",
+        "ltd": "58.5953"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.020238876343
+    },
+    {
+      "label": "Argentina",
+      "x": -1428.7485351562,
+      "y": -1111.7662353516,
+      "id": "4",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/DGKfM1\">Argentina<\/a>",
+        "Weight": "7.0",
+        "lng": "-58.666667",
+        "ltd": "-34.58333333"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.121432304382
+    },
+    {
+      "label": "Bulgaria",
+      "x": 35.107501983643,
+      "y": 148.91171264648,
+      "id": "17",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/qsHD6d\">Bulgaria<\/a>",
+        "Weight": "747.0",
+        "lng": "23.316667",
+        "ltd": "42.68333333"
+      },
+      "color": "rgb(47,146,224)",
+      "size": 41.19408416748
+    },
+    {
+      "label": "Liberia",
+      "x": -569.1220703125,
+      "y": -366.53787231445,
+      "id": "107",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/3ZcDBb\">Liberia<\/a>",
+        "Weight": "1.0",
+        "lng": "-10.8",
+        "ltd": "6.3"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Norway",
+      "x": -183.03034973145,
+      "y": 871.23071289062,
+      "id": "84",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/J40Uqa\">Norway<\/a>",
+        "Weight": "5.0",
+        "lng": "10.75",
+        "ltd": "59.916666666666664"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.080954551697
+    },
+    {
+      "label": "Morroco",
+      "x": -518.86853027344,
+      "y": 125.1396484375,
+      "id": "28",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/xXouX0\">Morocco<\/a>",
+        "Weight": "9.0",
+        "lng": "-6.816667",
+        "ltd": "34.01666667"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.161910057068
+    },
+    {
+      "label": "Mozambique",
+      "x": 213.20497131348,
+      "y": -970.58813476562,
+      "id": "134",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"http:\/\/catalog.osaarchivum.org\/?_=1491484482384&f%5Bdigital_collection%5D%5B%5D=Free+Europe+Committee+Encrypted+Telex+Communication&f%5Bsubject_geo_facet%5D%5B%5D=Mozambique\">Mozambique<\/a>",
+        "Weight": "1.0",
+        "lng": "32.583333",
+        "ltd": "-25.95"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Vietnam",
+      "x": 1582.9130859375,
+      "y": 350.06753540039,
+      "id": "43",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"http:\/\/catalog.osaarchivum.org\/?_=1491484482384&f%5Bdigital_collection%5D%5B%5D=Free+Europe+Committee+Encrypted+Telex+Communication&f%5Bsubject_geo_facet%5D%5B%5D=North+Vietnam\">Vietnam<\/a>",
+        "Weight": "266.0",
+        "lng": "105.85",
+        "ltd": "21.033333333333335"
+      },
+      "color": "rgb(63,181,233)",
+      "size": 37.200309753418
+    },
+    {
+      "label": "North Korea",
+      "x": 1690.1235351562,
+      "y": 625.21429443359,
+      "id": "50",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/Uk68rG\">North Korea<\/a>",
+        "Weight": "24.0",
+        "lng": "125.75",
+        "ltd": "39.016666666666666"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.465490341187
+    },
+    {
+      "label": "Australia",
+      "x": 1566.111328125,
+      "y": -537.11309814453,
+      "id": "83",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/t1cerO\">Australia<\/a>",
+        "Weight": "13.0",
+        "lng": "149.133333",
+        "ltd": "-35.266666666666666"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.242864608765
+    },
+    {
+      "label": "Turkmenistan",
+      "x": 767.85125732422,
+      "y": 241.63204956055,
+      "id": "155",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Turkmenistan<\/a>",
+        "Weight": "1.0",
+        "lng": "58.383333",
+        "ltd": "37.95"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Togo",
+      "x": -328.40872192383,
+      "y": -365.39263916016,
+      "id": "96",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/5Kvlwu\">Togo<\/a>",
+        "Weight": "1.0",
+        "lng": "1.216667",
+        "ltd": "6.116666666666666"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Panama",
+      "x": -1750.7708740234,
+      "y": -340.4743347168,
+      "id": "59",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/zgI26c\">Panama<\/a>",
+        "Weight": "14.0",
+        "lng": "-79.533333",
+        "ltd": "8.966666666666667"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.263103485107
+    },
+    {
+      "label": "Sudan",
+      "x": 187.99139404297,
+      "y": -202.00015258789,
+      "id": "54",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Sudan<\/a>",
+        "Weight": "13.0",
+        "lng": "32.533333",
+        "ltd": "15.6"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.242864608765
+    },
+    {
+      "label": "Iraq",
+      "x": 505.18881225586,
+      "y": 66.686584472656,
+      "id": "103",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/ekmbb6\">Iraq<\/a>",
+        "Weight": "5.0",
+        "lng": "44.4",
+        "ltd": "33.333333333333336"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.080954551697
+    },
+    {
+      "label": "Latvia",
+      "x": 142.94596862793,
+      "y": 917.82885742188,
+      "id": "110",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/4ZGOzz\">Latvia<\/a>",
+        "Weight": "4.0",
+        "lng": "24.1",
+        "ltd": "56.95"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.060715675354
+    },
+    {
+      "label": "Philippines",
+      "x": 1821.2248535156,
+      "y": 230.84715270996,
+      "id": "93",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/lhTQBY\">Philippines<\/a>",
+        "Weight": "1.0",
+        "lng": "120.966667",
+        "ltd": "14.6"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Portuguese Guinea",
+      "x": 2222.4555664062,
+      "y": 83.667190551758,
+      "id": "126",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/m4Sv1U\">Portuguese Guinea<\/a>",
+        "Weight": "1.0",
+        "lng": "143.9555",
+        "ltd": "6.315"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Egypt",
+      "x": 97.438026428223,
+      "y": -29.708026885986,
+      "id": "100",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/HTDqpY>Egypt<\/a>",
+        "Weight": "19.0",
+        "lng": "30.8025",
+        "ltd": "26.8206"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.364296913147
+    },
+    {
+      "label": "Tibet",
+      "x": 1304.4440917969,
+      "y": 519.30963134766,
+      "id": "71",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/KFH4K4\">Tibet<\/a>",
+        "Weight": "4.0",
+        "lng": "91.1175",
+        "ltd": "29.6475"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.060715675354
+    },
+    {
+      "label": "Georgia",
+      "x": 509.74084472656,
+      "y": 197.8505859375,
+      "id": "164",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Georgia<\/a>",
+        "Weight": "1.0",
+        "lng": "44.833333",
+        "ltd": "41.68333333333333"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Taiwan",
+      "x": 1675.5821533203,
+      "y": 502.15197753906,
+      "id": "122",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/N1Ks4q\">Taiwan<\/a>",
+        "Weight": "3.0",
+        "lng": "121.516667",
+        "ltd": "25.033333333333335"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.040477752686
+    },
+    {
+      "label": "Kazakhstan",
+      "x": 872.38146972656,
+      "y": 559.2802734375,
+      "id": "154",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Kazakhstan<\/a>",
+        "Weight": "1.0",
+        "lng": "71.416667",
+        "ltd": "51.166666666666664"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Brunei",
+      "x": 1715.9233398438,
+      "y": 58.559432983398,
+      "id": "40",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/EH37bI\">Brunei<\/a>",
+        "Weight": "1.0",
+        "lng": "114.933333",
+        "ltd": "4.883333333333333"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "USA",
+      "x": -1718.5880126953,
+      "y": 250.05764770508,
+      "id": "2",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/4Wiq95\">USA<\/a>",
+        "Weight": "1246.0",
+        "lng": "-77.0",
+        "ltd": "38.88333"
+      },
+      "color": "rgb(28,93,206)",
+      "size": 45.337310791016
+    },
+    {
+      "label": "Congo",
+      "x": -161.8436126709,
+      "y": -524.30993652344,
+      "id": "46",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/01291Q\">Congo<\/a>",
+        "Weight": "45.0",
+        "lng": "15.3",
+        "ltd": "-4.316666666666666"
+      },
+      "color": "rgb(70,197,238)",
+      "size": 12.890502929688
+    },
+    {
+      "label": "Cyprus",
+      "x": 160.80160522461,
+      "y": 207.25653076172,
+      "id": "52",
+      "attributes": {
+        "Search Blinken OSA for this country": "< a href=\"https:\/\/goo.gl\/ihXWQb\">Cyprus<\/a>",
+        "Weight": "14.0",
+        "lng": "33.366667",
+        "ltd": "35.166666666666664"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.263103485107
+    },
+    {
+      "label": "Mali",
+      "x": -513.70086669922,
+      "y": -260.87368774414,
+      "id": "95",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/oHcSx2\">Mali<\/a>",
+        "Weight": "1.0",
+        "lng": "-8.0",
+        "ltd": "12.65"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Indonesia",
+      "x": 1574.2607421875,
+      "y": -134.61125183105,
+      "id": "38",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/NBmiJC\">Indonesia<\/a>",
+        "Weight": "17.0",
+        "lng": "106.816667",
+        "ltd": "-6.166666666666667"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.323819160461
+    },
+    {
+      "label": "Peru",
+      "x": -1718.8507080078,
+      "y": -695.35363769531,
+      "id": "9",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/jd4lmv\">Peru<\/a>",
+        "Weight": "4.0",
+        "lng": "-77.05",
+        "ltd": "-12.05"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.060715675354
+    },
+    {
+      "label": "Ceylon",
+      "x": 1037.7255859375,
+      "y": 61.655151367188,
+      "id": "114",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/3ndZOS\">Ceylon<\/a>",
+        "Weight": "1.0",
+        "lng": "79.833333",
+        "ltd": "6.916666666666667"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Serbia",
+      "x": -32.913154602051,
+      "y": 331.30526733398,
+      "id": "143",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Serbia<\/a>",
+        "Weight": "2.0",
+        "lng": "20.5",
+        "ltd": "44.833333333333336"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.020238876343
+    },
+    {
+      "label": "South Korea",
+      "x": 1713.9892578125,
+      "y": 574.66931152344,
+      "id": "49",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/2WcU7c\">South Korea<\/a>",
+        "Weight": "5.0",
+        "lng": "126.983333",
+        "ltd": "37.55"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.080954551697
+    },
+    {
+      "label": "Monaco",
+      "x": -313.52593994141,
+      "y": 311.22985839844,
+      "id": "142",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Monaco<\/a>",
+        "Weight": "2.0",
+        "lng": "7.416667",
+        "ltd": "43.733333333333334"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.020238876343
+    },
+    {
+      "label": "Belarus",
+      "x": 239.48655700684,
+      "y": 803.10406494141,
+      "id": "165",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Belarus<\/a>",
+        "Weight": "1.0",
+        "lng": "27.566667",
+        "ltd": "53.9"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Belgium",
+      "x": -408.36907958984,
+      "y": 693.34857177734,
+      "id": "66",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/XgbzgD\">Belgium<\/a>",
+        "Weight": "21.0",
+        "lng": "4.333333",
+        "ltd": "50.833333333333336"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.404774665833
+    },
+    {
+      "label": "Hungary",
+      "x": 248.41302490234,
+      "y": 625.24884033203,
+      "id": "1",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/VWbfzz\">Hungary<\/a>",
+        "Weight": "1005.0",
+        "lng": "19.083333",
+        "ltd": "47.5"
+      },
+      "color": "rgb(37,122,216)",
+      "size": 43.336273193359
+    },
+    {
+      "label": "Ecuador",
+      "x": -1744.1579589844,
+      "y": -487.25527954102,
+      "id": "10",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/dP75O4\">Ecuador<\/a>",
+        "Weight": "3.0",
+        "lng": "-78.5",
+        "ltd": "-0.216666667"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.040477752686
+    },
+    {
+      "label": "Honduras",
+      "x": -1870.1120605469,
+      "y": -249.07209777832,
+      "id": "127",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/HSdDoz\">Honduras<\/a>",
+        "Weight": "1.0",
+        "lng": "-87.216667",
+        "ltd": "14.1"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Venezuela",
+      "x": -1539.6818847656,
+      "y": -297.72860717773,
+      "id": "7",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/xVZd1K\">Venezuela<\/a>",
+        "Weight": "9.0",
+        "lng": "-66.866667",
+        "ltd": "10.48333333"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.161910057068
+    },
+    {
+      "label": "Costa Rica",
+      "x": -1852.3831787109,
+      "y": -300.08615112305,
+      "id": "105",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/cgaFLb\">Costa Rica<\/a>",
+        "Weight": "2.0",
+        "lng": "-84.083333",
+        "ltd": "9.933333333333334"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.020238876343
+    },
+    {
+      "label": "Jordan",
+      "x": 360.87127685547,
+      "y": 61.098617553711,
+      "id": "70",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/3VDZw7\">Jordan<\/a>",
+        "Weight": "8.0",
+        "lng": "35.933333",
+        "ltd": "31.95"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.141671180725
+    },
+    {
+      "label": "Angola",
+      "x": -281.08670043945,
+      "y": 106.49412536621,
+      "id": "98",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/EpcX1X\">Angola<\/a>",
+        "Weight": "11.0",
+        "lng": "3.05",
+        "ltd": "36.75"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.202386856079
+    },
+    {
+      "label": "Zimbabwe",
+      "x": 134.77449035645,
+      "y": -145.32653808594,
+      "id": "133",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Zimbabwe<\/a>",
+        "Weight": "4.0",
+        "lng": "29.1549",
+        "ltd": "19.0154"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.060715675354
+    },
+    {
+      "label": "Syria",
+      "x": 397.63677978516,
+      "y": 112.70867156982,
+      "id": "106",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/yWtXBd\">Syria<\/a>",
+        "Weight": "16.0",
+        "lng": "36.3",
+        "ltd": "33.5"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.303580284119
+    },
+    {
+      "label": "Tanzania ",
+      "x": 332.81661987305,
+      "y": -624.0390625,
+      "id": "137",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Tanzania<\/a>",
+        "Weight": "2.0",
+        "lng": "39.283333",
+        "ltd": "-6.8"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.020238876343
+    },
+    {
+      "label": "Ukraine",
+      "x": 395.80947875977,
+      "y": 552.43035888672,
+      "id": "32",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/z5gzsz\">Ukraine<\/a>",
+        "Weight": "9.0",
+        "lng": "30.516667",
+        "ltd": "50.43333333333333"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.161910057068
+    },
+    {
+      "label": "Thailand",
+      "x": 1451.2301025391,
+      "y": 205.52864074707,
+      "id": "81",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/Sk9MKj\">Thailand<\/a>",
+        "Weight": "8.0",
+        "lng": "100.516667",
+        "ltd": "13.75"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.141671180725
+    },
+    {
+      "label": "Finland",
+      "x": 85.427223205566,
+      "y": 972.41040039062,
+      "id": "22",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/ZOtv3o\">Finland<\/a>",
+        "Weight": "23.0",
+        "lng": "24.933333",
+        "ltd": "60.16666667"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.445251464844
+    },
+    {
+      "label": "Denmark",
+      "x": -380.56649780273,
+      "y": 910.28088378906,
+      "id": "120",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/gYRIzg\">Denmark<\/a>",
+        "Weight": "17.0",
+        "lng": "9.5018",
+        "ltd": "56.2639"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.323819160461
+    },
+    {
+      "label": "Guatemala",
+      "x": -1984.1589355469,
+      "y": -209.18893432617,
+      "id": "119",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/uy8HrB\">Guatemala<\/a>",
+        "Weight": "2.0",
+        "lng": "-90.516667",
+        "ltd": "14.616666666666667"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.020238876343
+    },
+    {
+      "label": "Somalia",
+      "x": 417.14141845703,
+      "y": -447.39575195312,
+      "id": "138",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Somalia<\/a>",
+        "Weight": "1.0",
+        "lng": "45.333333",
+        "ltd": "2.066666666666667"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Cameroon",
+      "x": -168.53883361816,
+      "y": -420.58798217773,
+      "id": "79",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/wzF1wF\">Cameroon<\/a>",
+        "Weight": "2.0",
+        "lng": "11.516667",
+        "ltd": "3.8666666666666667"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.020238876343
+    },
+    {
+      "label": "Yemen",
+      "x": 403.04144287109,
+      "y": -218.39306640625,
+      "id": "125",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/XRHi4Q\">Yemen<\/a>",
+        "Weight": "1.0",
+        "lng": "44.2",
+        "ltd": "15.35"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "USSR",
+      "x": 416.87576293945,
+      "y": 813.58264160156,
+      "id": "23",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/8KCPq9\">USSR<\/a>",
+        "Weight": "1160.0",
+        "lng": "37.6",
+        "ltd": "55.75"
+      },
+      "color": "rgb(31,103,209)",
+      "size": 44.623249053955
+    },
+    {
+      "label": "Kuwait",
+      "x": 490.46984863281,
+      "y": 19.862468719482,
+      "id": "102",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/N2bD2a\">Kuwait<\/a>",
+        "Weight": "1.0",
+        "lng": "47.966667",
+        "ltd": "29.366666666666667"
+      },
+      "color": "rgb(72,201,239)",
+      "size": 12
+    },
+    {
+      "label": "Vatican City",
+      "x": -398.52487182617,
+      "y": 191.10443115234,
+      "id": "45",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/ilgDaE\">Vatican City<\/a>",
+        "Weight": "80.0",
+        "lng": "12.45",
+        "ltd": "41.9"
+      },
+      "color": "rgb(69,195,237)",
+      "size": 36.614944458008
+    },
+    {
+      "label": "Romania",
+      "x": 170.57611083984,
+      "y": 385.29873657227,
+      "id": "15",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/bWOrxu\">Romania<\/a>",
+        "Weight": "1020.0",
+        "lng": "26.1",
+        "ltd": "44.43333333"
+      },
+      "color": "rgb(37,120,215)",
+      "size": 43.460819244385
+    },
+    {
+      "label": "Palestine",
+      "x": 226.04309082031,
+      "y": 101.80098724365,
+      "id": "140",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"\">Palestine<\/a>",
+        "Weight": "6.0",
+        "lng": "35.204269",
+        "ltd": "31.898043"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.10119342804
+    },
+    {
+      "label": "Turkey",
+      "x": 326.76068115234,
+      "y": 258.32708740234,
+      "id": "35",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/HSvdYk\">Turkey<\/a>",
+        "Weight": "18.0",
+        "lng": "32.866667",
+        "ltd": "39.93333333333333"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.344058036804
+    },
+    {
+      "label": "Puerto Rico",
+      "x": -1459.4384765625,
+      "y": -128.9984588623,
+      "id": "108",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/XU7LZw\">Puerto Rico<\/a>",
+        "Weight": "3.0",
+        "lng": "-66.116667",
+        "ltd": "18.466666666666665"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.040477752686
+    },
+    {
+      "label": "Cambodia",
+      "x": 1552.0354003906,
+      "y": 165.76026916504,
+      "id": "115",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/EEsZnf\">Cambodia<\/a>",
+        "Weight": "21.0",
+        "lng": "104.916667",
+        "ltd": "11.55"
+      },
+      "color": "rgb(71,199,238)",
+      "size": 12.404774665833
+    },
+    {
+      "label": "RFE",
+      "x": -361.50936889648,
+      "y": 471.77471923828,
+      "id": "3",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/35RA2c\">RFE Collection description<\/a>",
+        "Weight": "800.0",
+        "lng": "11.582",
+        "ltd": "48.1351"
+      },
+      "color": "rgb(45,142,222)",
+      "size": 41.634147644043
+    },
+    {
+      "label": "Ghana",
+      "x": -412.40155029297,
+      "y": -411.640625,
+      "id": "85",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/as3AMV\">Ghana<\/a>",
+        "Weight": "6.0",
+        "lng": "-0.216667",
+        "ltd": "5.55"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.10119342804
+    },
+    {
+      "label": "Ireland",
+      "x": -497.27850341797,
+      "y": 739.73205566406,
+      "id": "99",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/gTAhFI\">Ireland<\/a>",
+        "Weight": "2.0",
+        "lng": "-6.233333",
+        "ltd": "53.31666666666667"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.020238876343
+    },
+    {
+      "label": "Poland",
+      "x": -18.940334320068,
+      "y": 807.56817626953,
+      "id": "13",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/R9yLws\">Poland<\/a>",
+        "Weight": "1928.0",
+        "lng": "21.0",
+        "ltd": "52.25"
+      },
+      "color": "rgb(1,12,177)",
+      "size": 51
+    },
+    {
+      "label": "Nigeria",
+      "x": -233.92001342773,
+      "y": -315.02871704102,
+      "id": "86",
+      "attributes": {
+        "Search Blinken OSA for this country": "<a href=\"https:\/\/goo.gl\/3VrJVN\">Nigeria<\/a>",
+        "Weight": "4.0",
+        "lng": "7.533333",
+        "ltd": "9.083333333333334"
+      },
+      "color": "rgb(71,200,238)",
+      "size": 12.060715675354
+    }
+  ]
+}
